@@ -1,0 +1,210 @@
+FILE5[0002]
+******************************
+[0000]
+Defeat [{2%s}]
+------------------------------------------------
+[0001]
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0032]
+******************************
+[0000]
+00[{4jump bridge}], drop!
+------------------------------------------------
+[0001]
+11[{4eight door golden lock array}]South wall disappears!
+------------------------------------------------
+[0002]
+00[{4Beizhai Ximen}], open the gates!
+------------------------------------------------
+[0003]
+00[{4Fancheng Ximen}], open the gates!
+------------------------------------------------
+[0004]
+00Defeat [{2Lu Kuang}] of [{4Shengmen}]!
+------------------------------------------------
+[0005]
+23[{2Cao Caojun}] Reinforcements have arrived!
+------------------------------------------------
+[0006]
+11[{2Lu Kuang}], defeated!
+------------------------------------------------
+[0007]
+11[{2Li Dian}], destroyed!
+------------------------------------------------
+[0008]
+11[{2Lu Xiang}], defeated!
+------------------------------------------------
+[0009]
+41[{4eight door golden lock array}], collapsing!
+------------------------------------------------
+[0010]
+00[{2Cao Ren}], begin marching towards [{4Flavor Honjin}]!
+------------------------------------------------
+[0011]
+00Defeat [{2Li Dian}] of [{4Jingmen}]!
+------------------------------------------------
+[0012]
+23[{4Flavor Honjin}], in danger of falling! "Hurry and help!"
+------------------------------------------------
+[0013]
+00Defeat [{2Lu Xiang}] on [{4Startled}]!
+------------------------------------------------
+[0014]
+23[{4Flavor Honjin}], in danger of falling! "Promptly help!"
+------------------------------------------------
+[0015]
+33[{4Flavor Honjin}], defeated!
+------------------------------------------------
+[0016]
+00dummy
+------------------------------------------------
+[0017]
+00Evacuate from [{2Cao Hong}], [{4Cao Cao's main formation}]!
+------------------------------------------------
+[0018]
+00[{2Cao Ren}], march towards [{4Liu Bei's army}]!
+------------------------------------------------
+[0019]
+23[{1Liu Bei}], struggling! "Hurry and help!"
+------------------------------------------------
+[0020]
+23[{1Liu Bei}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0021]
+33[{1Liu Bei}], defeated for rout!
+------------------------------------------------
+[0022]
+11Defeat [{1%s}] and [{2%s}]!
+------------------------------------------------
+[0023]
+00Defeat [{2Zhu Qi}]!
+------------------------------------------------
+[0024]
+00Defeat [{2Cao Hong}]!
+------------------------------------------------
+[0025]
+00Defeat the remaining guards!
+------------------------------------------------
+[0026]
+00Escape from [{4eight door golden lock array}]!
+------------------------------------------------
+[0027]
+11Escape from [{4eight door golden lock array}]!
+------------------------------------------------
+[0028]
+11The formation of [{4Shengmen}] collapses!
+------------------------------------------------
+[0029]
+11The formation of [{4Jingmen}] collapses!
+------------------------------------------------
+[0030]
+11The formation of [{4Startled}] collapses!
+------------------------------------------------
+[0031]
+23With the effect of [{4eight door golden lock array}], [{2Cao Caojun}] is inspired!
+------------------------------------------------
+FILE9[0027]
+******************************
+[0000]
+The enemy is [{2Cao Caojun}], dangerous to hit head-on. We
+should divide into three groups and advance.
+------------------------------------------------
+[0001]
+Hmm, I'm south, [{1Zhao Yun}] is north. It would be nice if
+[{1Yide}] attacked the center, right?
+------------------------------------------------
+[0002]
+Correct. Let's go, [{1Zhang Fei}]
+------------------------------------------------
+[0003]
+If my brothers obey, I have no complaints. But I didn't
+trust you
+------------------------------------------------
+[0004]
+What is it? The guys from [{2Cao Caojun}] have a strange
+formation
+------------------------------------------------
+[0005]
+Rest, life, wounds, forest, scenery, death, surprise, open
+gates... That's [{4eight door golden lock array}]
+------------------------------------------------
+[0006]
+There is a law to destroy that formation. [{1Zhang Fei}],
+please go to [{4southeastern camp}]
+------------------------------------------------
+[0007]
+First, hit [{4southeastern camp}]……[{4Shengmen}]. Then
+attack [{4Jingmen}] to the west
+------------------------------------------------
+[0008]
+Hey, that's a complicated story... Well, this time I'll
+follow you
+------------------------------------------------
+[0009]
+If you just follow the instructions... The enemy's strength
+has increased!
+------------------------------------------------
+[0010]
+Well done, [{4Shengmen}]'s formation is broken. Now let's
+poke the [{4Jingmen}] in the west
+------------------------------------------------
+[0011]
+Sure! 
+------------------------------------------------
+[0012]
+You've broken through [{4Jingmen}]'s formation. The enemy
+seems to be unable to hide their upset
+------------------------------------------------
+[0013]
+Heh. Eight gates is no big deal!
+------------------------------------------------
+[0014]
+Now hit [{4Startled}] in the north. Then [{4Eight Golden
+Locks}] should collapse at once.
+------------------------------------------------
+[0015]
+Hey, do you see anything? ……Well, I’ll just go on a rampage!
+------------------------------------------------
+[0016]
+Dear [{1Zhang Fei}], you did a great job.
+------------------------------------------------
+[0017]
+You too, well... well done. But why did you lend us your
+wisdom?
+------------------------------------------------
+[0018]
+To introduce [{1Liu Bei}] and Wolong [{1Zhuge Liang}]. let's
+just say...
+------------------------------------------------
+[0019]
+Breaking [{4Eight Golden Locks}] by force... [{1Zhang Fei}]
+Your Majesty, Takeshi, I'm afraid...
+------------------------------------------------
+[0020]
+Hey, it's easy. But why did you lend us your wisdom?
+------------------------------------------------
+[0021]
+The formation has collapsed and the enemy seems to have lost
+the will to fight. Admiral [{2Cao Hong}] has begun to
+retreat.
+------------------------------------------------
+[0022]
+…… It seems that you are aiming to turn the tide. [{2Cao
+Ren}] is heading to [{4Flavor Honjin}]
+------------------------------------------------
+[0023]
+Breaking through the impregnable line-up...a ​​splendid
+enemy. If that wisdom is cut off here, it will be a disaster
+later!
+------------------------------------------------
+[0024]
+To break our camp so vividly... But you're not defeated yet!
+------------------------------------------------
+[0025]
+[{1Liu Bei}] seems to be having a tough time. Let's go help!
+------------------------------------------------
+[0026]
+Dear [{1Zhang Fei}]! "[{1Liu Bei}] is in danger." I need to
+go help quickly!
+------------------------------------------------

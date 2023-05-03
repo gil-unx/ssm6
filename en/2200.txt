@@ -1,0 +1,262 @@
+FILE5[0002]
+******************************
+[0000]
+Defeat [{2%s}]
+------------------------------------------------
+[0001]
+[{1%s}] or
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0048]
+******************************
+[0000]
+00dummy
+------------------------------------------------
+[0001]
+00dummy
+------------------------------------------------
+[0002]
+00dummy
+------------------------------------------------
+[0003]
+00dummy
+------------------------------------------------
+[0004]
+00dummy
+------------------------------------------------
+[0005]
+00dummy
+------------------------------------------------
+[0006]
+00Defeat [{2Zhang Jiao}], the leader of the [{2Yellow Turban Party}]!
+------------------------------------------------
+[0007]
+00Defeat the [{2Yellow Turban Party}] Vanguard and support the advance of the [{1crusade army}]!
+------------------------------------------------
+[0008]
+00[{2Yellow Turban Party}] Vanguard, march!
+------------------------------------------------
+[0009]
+11[{2Yellow Turban Party}] Defeat Vanguard!
+------------------------------------------------
+[0010]
+00[{1crusade army}], march!
+------------------------------------------------
+[0011]
+23[{2Yellow Turban Party}] Reinforcements are here!
+------------------------------------------------
+[0012]
+00[{4eastern village}] is being attacked by the [{2Yellow Turban Party}]!
+------------------------------------------------
+[0013]
+00Defeat the [{2Yellow Turban Party}] attacking the village!
+------------------------------------------------
+[0014]
+11[{2Cheng Yuanzhi}], [{2Deng Mao}], destroyed!
+------------------------------------------------
+[0015]
+00[{5people kara no o ceremony}], found!
+------------------------------------------------
+[0016]
+33[{1civil}], destroyed!
+------------------------------------------------
+[0017]
+23[{2Zhang Liang}] caused a rockfall!
+------------------------------------------------
+[0018]
+00[{1crusade army}], advance halted due to falling rocks!
+------------------------------------------------
+[0019]
+00Defeat [{2Zhang Liang}] and stop falling rocks!
+------------------------------------------------
+[0020]
+11Rockfall, Breakthrough!
+------------------------------------------------
+[0021]
+23[{2Zhang Bao}]'s sorcery creates a gust of wind!
+------------------------------------------------
+[0022]
+00Defeat [{2Zhang Bao}] and stop the gust!
+------------------------------------------------
+[0023]
+00[{2Yellow Turban Party}], march!
+------------------------------------------------
+[0024]
+23[{1crusade army}] Stopped advance due to gust of wind!
+------------------------------------------------
+[0025]
+00Defeat the sorcery and support the advance of the [{1crusade army}]!
+------------------------------------------------
+[0026]
+00Found [{4cliff}] ready to march!
+------------------------------------------------
+[0027]
+00Surprise [{2Zhang Bao}]!
+------------------------------------------------
+[0028]
+11Surprise, success!
+------------------------------------------------
+[0029]
+23Surprise attack, failed!
+------------------------------------------------
+[0030]
+11[{2Zhang Bao}], defeated!
+------------------------------------------------
+[0031]
+11Gust, vanish!
+------------------------------------------------
+[0032]
+11Rockfall, stop!
+------------------------------------------------
+[0033]
+00[{1crusade army}], march towards [{2Zhang Jiao}]!
+------------------------------------------------
+[0034]
+23[{2Zhang Jiao}]'s sorcery has set the fort ablaze!
+------------------------------------------------
+[0035]
+00Destroy the gimmicks and defeat [{2Zhang Jiao}]'s sorcery!
+------------------------------------------------
+[0036]
+00[{2Zhang Jiao}]'s sorcery is gone!
+------------------------------------------------
+[0037]
+23[{1%s}], struggling! "Hurry and help!"
+------------------------------------------------
+[0038]
+23[{1%s}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0039]
+23[{1He Jin}], struggling! "Hurry and help!"
+------------------------------------------------
+[0040]
+23[{1He Jin}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0041]
+33[{1He Jin}], defeated for rout!
+------------------------------------------------
+[0042]
+33[{1%s}], defeated for rout!
+------------------------------------------------
+[0043]
+11It seems that [{2Zhang Liang}]'s sorcery has disappeared, and the southern rock has been removed!
+------------------------------------------------
+[0044]
+00Take a detour from the north and surprise [{2Zhang Bao}] from behind!
+------------------------------------------------
+[0045]
+33[{2Yellow Turban Party}], attacking [{4crusade army}]!
+------------------------------------------------
+[0046]
+11Successfully invaded [{4on the cliff}]!
+------------------------------------------------
+[0047]
+11[{1crusade army}], resume march!
+------------------------------------------------
+FILE9[0031]
+******************************
+[0000]
+It's okay to beat up [{2Yellow Turban}] guys. Let's finish
+this quickly, [{1Dun}] brother!
+------------------------------------------------
+[0001]
+Ugh, now there's only one left. Wait, you're not our enemy
+------------------------------------------------
+[0002]
+Hey, can anyone help me! If I fall, there will be no victory
+in this battle!
+------------------------------------------------
+[0003]
+The big guys are going to get killed, [{1Dun}] brother.
+Don't you think it's bad if you don't help me?
+------------------------------------------------
+[0004]
+Your work is wonderful! Come to my camp. Let's take a reward
+------------------------------------------------
+[0005]
+Hey, did you kill the general? This battle is our loss...
+------------------------------------------------
+[0006]
+If you defeat the enemy general [{2Zhang Jiao}], you win.
+Don't give credit to [{1Officers}]!
+------------------------------------------------
+[0007]
+Somehow, [{4eastern village}] is noisy. Would you like to go
+check it out?
+------------------------------------------------
+[0008]
+Please help me! The [{2Yellow Turban}] guys attacked!
+------------------------------------------------
+[0009]
+What the hell are you doing to get in our way!
+------------------------------------------------
+[0010]
+Don't disturb me. just kill it
+------------------------------------------------
+[0011]
+Thank you! Thank you for this...
+------------------------------------------------
+[0012]
+Wow, let's get killed! Somebody please help me!
+------------------------------------------------
+[0013]
+[{1Xiahou Dun}]...you can see it. The destination I'm aiming
+for is
+------------------------------------------------
+[0014]
+It doesn't matter where you aim. I just pave the way,
+[{1mend}]
+------------------------------------------------
+[0015]
+Fools, this road is impassable! Get under the rocks!
+------------------------------------------------
+[0016]
+Ahh, it's going to be tough to get through. Do you cut
+through at once or go around ... ...
+------------------------------------------------
+[0017]
+Oh heaven! "Give me strength!" Protect our comrades with a
+fierce wind!
+------------------------------------------------
+[0018]
+Oh, there's a [{4cliff}] to the south that looks like it
+could be climbed. Shall we work together from there?
+------------------------------------------------
+[0019]
+Oh my God! "Where did it appear from!"
+------------------------------------------------
+[0020]
+Flare up, fire of judgment! Burn the idiots of the blue sky!
+------------------------------------------------
+[0021]
+Uh, you can do it flashy, don't you think? Well, this kind
+of thing must have a trick...
+------------------------------------------------
+[0022]
+messenger! 
+------------------------------------------------
+[0023]
+messenger! That's why I'm asking for urgent help!
+------------------------------------------------
+[0024]
+messenger! 
+------------------------------------------------
+[0025]
+messenger! I am asking for urgent help!
+------------------------------------------------
+[0026]
+Hey, did you kill the general? This battle is our loss...
+------------------------------------------------
+[0027]
+Did you get carried away and lose sight of your
+surroundings? give up
+------------------------------------------------
+[0028]
+Will you defy the heavens! "Don't punish me!"
+------------------------------------------------
+[0029]
+Ahh, it's going to be hard to get through
+------------------------------------------------
+[0030]
+Damn it! ?
+------------------------------------------------

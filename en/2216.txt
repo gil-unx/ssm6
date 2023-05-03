@@ -1,0 +1,193 @@
+FILE5[0002]
+******************************
+[0000]
+Defeat [{2%s}]
+------------------------------------------------
+[0001]
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0034]
+******************************
+[0000]
+00Defeat [{2Zhang Lu}]!
+------------------------------------------------
+[0001]
+23[{2Zhang Lujun Militia}], resurrected!
+------------------------------------------------
+[0002]
+00[{4Bingku}], found!
+------------------------------------------------
+[0003]
+00Conquer [{4Bingku}]!
+------------------------------------------------
+[0004]
+23[{2Zhang Lujun}]Ambush, appear!
+------------------------------------------------
+[0005]
+11[{4Bingku}], subdued!
+------------------------------------------------
+[0006]
+23Failed to capture [{4Bingku}]!
+------------------------------------------------
+[0007]
+11[{2Zhang Lujun}], demoralization!
+------------------------------------------------
+[0008]
+23With the arrival of [{2Shu Army}] reinforcements, [{2Zhang Lujun}] is roused!
+------------------------------------------------
+[0009]
+00[{4Central Village North Gate}], open!
+------------------------------------------------
+[0010]
+23Sortie from [{2Zhang Sheng}], [{2Yang Ang}], [{4Zhang Lujun's headquarters}]!
+------------------------------------------------
+[0011]
+41[{1Jansson}], shaken by the inferiority of the war, defected from [{2Zhang Lujun}]!
+------------------------------------------------
+[0012]
+00[{4Zhang Lujun's headquarters}], gates open!
+------------------------------------------------
+[0013]
+00[{4Zhang Lujun's headquarters}], gates open!
+------------------------------------------------
+[0014]
+23[{2Zhang Lujun}], march!
+------------------------------------------------
+[0015]
+11[{1Wei Jun}], start marching!
+------------------------------------------------
+[0016]
+23[{2Shu Army}] Reinforcements coming!
+------------------------------------------------
+[0017]
+23[{2Shu Army}] Reinforcements coming!
+------------------------------------------------
+[0018]
+23[{2Shu Army}] Reinforcements coming!
+------------------------------------------------
+[0019]
+23[{2Zhang Lu}], recover health!
+------------------------------------------------
+[0020]
+00Suspicious [{5sacrificial vessel}], found!
+------------------------------------------------
+[0021]
+11[{5sacrificial vessel}], destroyed!
+------------------------------------------------
+[0022]
+11[{5sacrificial vessel}], destroyed!
+------------------------------------------------
+[0023]
+41Destroy all [{5sacrificial vessels}]!
+------------------------------------------------
+[0024]
+11Infinite health recovery for [{2Zhang Lu}] and [{2militia}] stopped!
+------------------------------------------------
+[0025]
+23[{1Cao Cao}], struggle! "Rescue!"
+------------------------------------------------
+[0026]
+23[{1Cao Cao}], struggle! "Promptly help!"
+------------------------------------------------
+[0027]
+33[{1Cao Cao}] defeated because of the rout!
+------------------------------------------------
+[0028]
+00Destroy the [{2Shu Army}] Reinforcements!
+------------------------------------------------
+[0029]
+23[{1Wei Jun's main formation}], struggling! "Rescue!"
+------------------------------------------------
+[0030]
+23[{1Wei Jun's main formation}], struggling! "Promptly help!"
+------------------------------------------------
+[0031]
+33[{1Wei Jun's main formation}], defeated!
+------------------------------------------------
+[0032]
+23[{2Shu Army}] Reinforcements approaching!
+------------------------------------------------
+[0033]
+11All [{2Shu army reinforcements}] destroyed!
+------------------------------------------------
+FILE9[0023]
+******************************
+[0000]
+Now, if you wait too long, you will lose your chance.
+Let's march swiftly and splendidly!
+------------------------------------------------
+[0001]
+We have [{2Zhang Lu}]. This wound will soon heal...
+------------------------------------------------
+[0002]
+report! 
+------------------------------------------------
+[0003]
+General, supplies are the key to morale... Conquer
+[{4Bingku}] and demoralize your enemies!
+------------------------------------------------
+[0004]
+As expected of a general! "Let's bring down the enemy's
+morale!"
+------------------------------------------------
+[0005]
+I will draw the enemy here. [{1deep}], leave [{4Bingku}] to
+me!
+------------------------------------------------
+[0006]
+messenger! Heading straight here!
+------------------------------------------------
+[0007]
+Probably Shu reinforcements. you have to watch out for them
+too
+------------------------------------------------
+[0008]
+It seems that reinforcements from Shu have appeared. Is the
+target your lord... let's be careful
+------------------------------------------------
+[0009]
+To defeat all the fierce generals of Shu! What bravery, what
+beauty!
+------------------------------------------------
+[0010]
+For those who love me... I can't be defeated so easily!
+------------------------------------------------
+[0011]
+Oh, is this... some kind of technique? Is there a source of
+power somewhere...?
+------------------------------------------------
+[0012]
+Well done, General! Now, let's seize the victory in style!
+------------------------------------------------
+[0013]
+[{2Liu Bei}], who gained a man and a country, is now... I'm
+trying to get even heaven's time
+------------------------------------------------
+[0014]
+Do not give momentum to [{2Liu Bei}] here. Take control of
+[{4Hanzhong}] and drive a wedge into Shu.
+------------------------------------------------
+[0015]
+messenger! 
+------------------------------------------------
+[0016]
+messenger! I am asking for urgent help!
+------------------------------------------------
+[0017]
+messenger! 
+------------------------------------------------
+[0018]
+Hey, did Wu move? Secretly imitating dirty...
+------------------------------------------------
+[0019]
+Allied commander-in-chief, defeated! Our army is defeated...
+------------------------------------------------
+[0020]
+messenger! 
+------------------------------------------------
+[0021]
+messenger! I am asking for urgent help!
+------------------------------------------------
+[0022]
+[{4Flavor Honjin}] Fall! Our army is defeated...
+------------------------------------------------

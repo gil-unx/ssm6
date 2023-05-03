@@ -1,0 +1,58 @@
+FILE5[0002]
+******************************
+[0000]
+[{2%s}] and
+Defeat [{2%s}]
+------------------------------------------------
+[0001]
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0007]
+******************************
+[0000]
+00Defeat [{2Yellow Turban Party}] standing in your way!
+------------------------------------------------
+[0001]
+00Watch out for the rout of [{1Zhu Jian}]!
+------------------------------------------------
+[0002]
+23[{1Zhu Jian}], struggling! "Hurry and help!"
+------------------------------------------------
+[0003]
+23[{1Zhu Jian}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0004]
+11[{2Yellow Turban Party}] Defeat Vanguard!
+------------------------------------------------
+[0005]
+33[{1Zhu Jian}], defeated for rout!
+------------------------------------------------
+[0006]
+00Defeat [{2%s}]!
+------------------------------------------------
+FILE9[0007]
+******************************
+[0000]
+It's okay to beat up [{2Yellow Turban}] guys. Let's finish
+this quickly, [{1Dun}] brother!
+------------------------------------------------
+[0001]
+Ugh, now there's only one left. Wait, you're not our enemy
+------------------------------------------------
+[0002]
+Hey, can anyone help me! If I fall, there will be no victory
+in this battle!
+------------------------------------------------
+[0003]
+The big guys are going to get killed, [{1Dun}] brother.
+Don't you think it's bad if you don't help me?
+------------------------------------------------
+[0004]
+Your work is wonderful! Come to my camp. Let's take a reward
+------------------------------------------------
+[0005]
+Hey, did you kill the general? This battle is our loss...
+------------------------------------------------
+[0006]
+Oh, thank you for your help!
+------------------------------------------------

@@ -1,0 +1,261 @@
+FILE5[0002]
+******************************
+[0000]
+Defeat [{2%s}]
+------------------------------------------------
+[0001]
+[{1%s}] or
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0038]
+******************************
+[0000]
+00Defeat [{2Cao Caojun}] in the west!
+------------------------------------------------
+[0001]
+23[{2Xu You}], defect from [{1Yuan Shaojun}]!
+------------------------------------------------
+[0002]
+23[{2Cheng Yu}] Corps, spawning south of [{4Crow's nest}]!
+------------------------------------------------
+[0003]
+23Invade [{2Cao Caojun}], [{4Crow's nest}]!
+------------------------------------------------
+[0004]
+00Hurry and rescue [{4Crow's nest}]!
+------------------------------------------------
+[0005]
+23[{2Guan Yu}] Corps, appear!
+------------------------------------------------
+[0006]
+23[{2Yuan Shaojun}], hostile!
+------------------------------------------------
+[0007]
+23[{2Cao Caojun}] Reinforcements have arrived!
+------------------------------------------------
+[0008]
+23[{1Liu Beijun}], isolated!
+------------------------------------------------
+[0009]
+02Aim for [{4Escape location}] with [{1%s}]!
+------------------------------------------------
+[0010]
+00[{2%s}], hide!
+------------------------------------------------
+[0011]
+11[{2%s}], temporarily withdraw!
+------------------------------------------------
+[0012]
+23[{2Cao Caojun}]Ambush, appear!
+------------------------------------------------
+[0013]
+00[{4Crow's nest}], gates open!
+------------------------------------------------
+[0014]
+23[{2Yuan Shaojun}] Reinforcements are here!
+------------------------------------------------
+[0015]
+23[{2Zhang Liao}] Corps, appear!
+------------------------------------------------
+[0016]
+11[{2Zhang Liao}], defeated!
+------------------------------------------------
+[0017]
+23[{2Cao Caojun}]Ambush, appear!
+------------------------------------------------
+[0018]
+11[{2Cao Caojun}]Ambush, defeated!
+------------------------------------------------
+[0019]
+11[{2Yuan Shaojun}] Reinforcements, defeated!
+------------------------------------------------
+[0020]
+23[{2%s}] Corps appear!
+------------------------------------------------
+[0021]
+23[{1%s}], struggling! "Hurry and help!"
+------------------------------------------------
+[0022]
+23[{1%s}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0023]
+41Reached [{1%s}], [{4Escape location}]!
+------------------------------------------------
+[0024]
+33[{1%s}], defeated for rout!
+------------------------------------------------
+[0025]
+33[{1%s}], defeated for rout!
+------------------------------------------------
+[0026]
+23[{1Yan Liang}], temporarily withdraw!
+------------------------------------------------
+[0027]
+23[{1Wen Chou}], temporarily withdraw!
+------------------------------------------------
+[0028]
+00[{2Guan Yu}] sightings reported!
+------------------------------------------------
+[0029]
+00Hurry to the sighting point!
+------------------------------------------------
+[0030]
+00Defeat [{2%s}]!
+------------------------------------------------
+[0031]
+23[{1Chun Yuqiong}], rout!
+------------------------------------------------
+[0032]
+23[{2Yuan Shaojun}] Reinforcements begin tracking [{1%s}]!
+------------------------------------------------
+[0033]
+23[{4Crow's nest}], on fire!
+------------------------------------------------
+[0034]
+23It looks like it's being pushed by [{1Yuan Shaojun}] and [{2Cao Caojun}] in the west!
+------------------------------------------------
+[0035]
+00[{2Guan Yu}], withdraw!
+------------------------------------------------
+[0036]
+00Join [{2Guan Yu}] and [{2Cao Caojun}] in battle!
+------------------------------------------------
+[0037]
+02Aim for [{4Escape location}]!
+------------------------------------------------
+FILE9[0037]
+******************************
+[0000]
+Let's go, [{1Zhao Yun}]! Let's blast those guys from [{2Cao
+Caojun}]!
+------------------------------------------------
+[0001]
+Messenger from [{1Yuan Shao}]! He told me to go to [{4Crow's
+nest}] and rescue him immediately!
+------------------------------------------------
+[0002]
+If it's at the behest of my indebted [{1Yuan Shao}]... Rush
+to [{1Zhao Yun}], [{4Crow's nest}]
+------------------------------------------------
+[0003]
+[{2long cloud}], glad you're alive...
+------------------------------------------------
+[0004]
+But……. [{2long cloud}]'s brother seems to be following
+[{2Cao Cao}]'s bastard
+------------------------------------------------
+[0005]
+Ryu, it's [{1Liu Bei}]! "What is this!" Is [{2Guan Yu}] your
+brother-in-law?
+------------------------------------------------
+[0006]
+Betray me and disrupt the battles of the nobles! I will not
+forgive you! "Everyone, capture [{1Liu Bei}]!"
+------------------------------------------------
+[0007]
+[{2Yuan Shaojun}] to [{2Cao Caojun}]……. It looks like you've
+turned both into enemies...
+------------------------------------------------
+[0008]
+I don't want to fight [{2long cloud}] or [{2Yuan Shao}]...
+Through [{1Yide}], [{1Zhao Yun}], [{4Crow's nest}] and
+escape now
+------------------------------------------------
+[0009]
+Why did [{2Guan Yu}] go to [{2Cao Caojun}]...? No, now let's
+focus on escaping
+------------------------------------------------
+[0010]
+Betrayal isn't beautiful... At least scatter brilliantly!
+------------------------------------------------
+[0011]
+Are you going to get out of there? Well then, until I beat
+you and push through!
+------------------------------------------------
+[0012]
+You are from [{2Cao Cao}]... Bring out [{2long cloud}]'s
+brother!
+------------------------------------------------
+[0013]
+[{2Guan Yu}] has been treated favorably by my lord. I will
+never return to you
+------------------------------------------------
+[0014]
+My brother is having a hard time. [{1Zhao Yun}], let's go
+help!
+------------------------------------------------
+[0015]
+Stop! [{2long cloud}]'s brother betrayed us!
+------------------------------------------------
+[0016]
+Calm down, [{1Yide}]. Something must be wrong. Now believe
+in [{2long cloud}]...
+------------------------------------------------
+[0017]
+Hmm, are you [{1Liu Bei}]……a person my father considers
+dangerous? It's a good opportunity. let's kill it here
+------------------------------------------------
+[0018]
+You are a sin to make me chase you. Think you can escape
+like this?
+------------------------------------------------
+[0019]
+You are a sin to make me chase you. Think you can escape
+like this?
+------------------------------------------------
+[0020]
+My brother is having a hard time. [{1Zhao Yun}], let's go
+help!
+------------------------------------------------
+[0021]
+Did you leave your precious master behind and come to see
+me? Ufufu, you are a bad person
+------------------------------------------------
+[0022]
+You traitor, get over there! This [{2Yuan Bench}] will do
+the rest!
+------------------------------------------------
+[0023]
+[{1Zhao Yun}], brother! I'll come help you right away!
+------------------------------------------------
+[0024]
+Oh my... I'll definitely make amends for the crime of
+blaming my family someday
+------------------------------------------------
+[0025]
+ok let's move on
+------------------------------------------------
+[0026]
+ok let's move on
+------------------------------------------------
+[0027]
+Good luck, [{1Zhao Yun}]. I'm lucky to have a general like
+you
+------------------------------------------------
+[0028]
+Hurry up!
+------------------------------------------------
+[0029]
+Hurry up!
+------------------------------------------------
+[0030]
+Kuh, are you being pushed...
+------------------------------------------------
+[0031]
+My path...will it end here...
+------------------------------------------------
+[0032]
+Brother is in danger! [{1Zhao Yun}], I'll help you soon!
+------------------------------------------------
+[0033]
+Brother is in danger! [{1Zhao Yun}], I'll help you soon!
+------------------------------------------------
+[0034]
+Until now... or...
+------------------------------------------------
+[0035]
+Oh my god.... Even my older brother is gone...
+------------------------------------------------
+[0036]
+We're going to help our friendly forces! hurry up!
+------------------------------------------------

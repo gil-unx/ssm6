@@ -1,0 +1,284 @@
+FILE5[0002]
+******************************
+[0000]
+Defeat [{2%s}]
+------------------------------------------------
+[0001]
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0053]
+******************************
+[0000]
+00Capture the forts around [{4Dingjun Mountain}] and set up a siege!
+------------------------------------------------
+[0001]
+00[{2Xiahou Yuan}], march to the center of the battlefield!
+------------------------------------------------
+[0002]
+00[{1Yan Yan}] leads the fire attack unit, moving towards [{4Tiandang Mountain}]!
+------------------------------------------------
+[0003]
+00Escort [{1Yan Yan}] to [{4Tiandang Mountain}]!
+------------------------------------------------
+[0004]
+00[{2Xiahou Yuan}], begin tracking [{1Yan Yan}]!
+------------------------------------------------
+[0005]
+00[{4Tiandang Mountain}] West gate open!
+------------------------------------------------
+[0006]
+00[{4Tiandang Mountain}]South Gate, open!
+------------------------------------------------
+[0007]
+11[{1Yan Yan}] successfully fired!
+------------------------------------------------
+[0008]
+23[{2Wei Jun}], demoralized!
+------------------------------------------------
+[0009]
+23Fire gauge failed!
+------------------------------------------------
+[0010]
+23[{1Shu Army}], demoralization!
+------------------------------------------------
+[0011]
+00Support the allied units in the center!
+------------------------------------------------
+[0012]
+00[{4South Gate of Tiandang Mountain}], open!
+------------------------------------------------
+[0013]
+11[{1Ma Chao}], ready to march!
+------------------------------------------------
+[0014]
+11[{1Wei Yan}], ready to march!
+------------------------------------------------
+[0015]
+11Forts around [{4Dingjun Mountain}] captured!
+------------------------------------------------
+[0016]
+11[{1Shu Army}], raise morale!
+------------------------------------------------
+[0017]
+23[{4Dingjun Mountain}] Siege operation failed!
+------------------------------------------------
+[0018]
+00Defeat [{2Cao Cao}]!
+------------------------------------------------
+[0019]
+11[{1Ma Chao}], start marching towards [{4Wei Jun's main formation}]!
+------------------------------------------------
+[0020]
+11[{1Wei Yan}], start marching towards [{4Wei Jun's main formation}]!
+------------------------------------------------
+[0021]
+11[{4Dingjunshan Pass}], open the gates!
+------------------------------------------------
+[0022]
+11[{4Dingjun Mountain North Village}] All gates open!
+------------------------------------------------
+[0023]
+23[{2Sima Yi}] has created a fire attack in [{4Dingjun Mountain North Village}]!
+------------------------------------------------
+[0024]
+11[{4Dingjunshan Beizhai Entire Gate}], closed!
+------------------------------------------------
+[0025]
+11[{4Wei Jun's main formation}], open the gates!
+------------------------------------------------
+[0026]
+23[{1Zhuge Liang}], struggling! "Hurry and help!"
+------------------------------------------------
+[0027]
+23[{1Zhuge Liang}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0028]
+00Wipe out the enemies within [{2Dingjun Mountain Beijing Office}]!
+------------------------------------------------
+[0029]
+11[{2Wei Jun}]'s lack of supplies has weakened his fighting spirit!
+------------------------------------------------
+[0030]
+00[{2Xiahou Yuan}], temporarily withdraw!
+------------------------------------------------
+[0031]
+23[{2Xiahou Yuan}], reappear!
+------------------------------------------------
+[0032]
+00Defeat [{2%s}]!
+------------------------------------------------
+[0033]
+00The door seems to be closed tightly!
+------------------------------------------------
+[0034]
+00[{4Dingjun Mountain}] is in a siege stance!
+------------------------------------------------
+[0035]
+11[{4central village}], conquered!
+------------------------------------------------
+[0036]
+11[{4Xizhai}], subdued!
+------------------------------------------------
+[0037]
+00Help [{1Ma Chao}] reach [{4central village}]!
+------------------------------------------------
+[0038]
+00Help [{1Wei Yan}] reach [{4Xizhai}]!
+------------------------------------------------
+[0039]
+00[{2Xu ⑥}], start marching towards [{4Dingjun Mountain}]!
+------------------------------------------------
+[0040]
+00[{2Xu ⑥}], start marching towards [{4Tiandang Mountain}]!
+------------------------------------------------
+[0041]
+00[{4Tiandang Mountain Nanzhai}] All gates open!
+------------------------------------------------
+[0042]
+00[{4Dingjun Shandong Village}] All gates open!
+------------------------------------------------
+[0043]
+23Start marching towards [{2Xu ⑥}], [{4Flag Hill}]!
+------------------------------------------------
+[0044]
+23[{2Cao Caojun}]Ambush, appear!
+------------------------------------------------
+[0045]
+23[{4Flavor Honjin}], struggling! "Hurry and help!"
+------------------------------------------------
+[0046]
+23[{4Flavor Honjin}], in danger of falling! "Promptly help!"
+------------------------------------------------
+[0047]
+00Help [{1%s}] reach [{4central village}]!
+------------------------------------------------
+[0048]
+00Help [{1%s}] reach [{4Xizhai}]!
+------------------------------------------------
+[0049]
+11[{1%s}], ready to march!
+------------------------------------------------
+[0050]
+11[{1%s}], ready to march!
+------------------------------------------------
+[0051]
+11[{1%s}], start marching towards [{4Wei Jun's main formation}]!
+------------------------------------------------
+[0052]
+11[{1%s}], start marching towards [{4Wei Jun's main formation}]!
+------------------------------------------------
+FILE9[0032]
+******************************
+[0000]
+[{2Cao Cao}] is encamped on [{4Dingjun Mountain}]. If we
+take that mountain, [{4Hanzhong}] will be ours.
+------------------------------------------------
+[0001]
+First, hold the perimeter of [{4Dingjun Mountain}]. [{1Wei
+Yan}] to the west, [{1Ma Chao}] to the middle [{4Walled}]
+------------------------------------------------
+[0002]
+Enemy... Defeat! [{1Liu Bei}]……Rejoice!
+------------------------------------------------
+[0003]
+[{1Liu Bei}] This blade dedicated to you... For Jin's will,
+let's wield it to the fullest!
+------------------------------------------------
+[0004]
+Enemies are gathering over there. Hey, I have no choice but
+to go!
+------------------------------------------------
+[0005]
+messenger! [{1Yan Yan}] has departed with a raiding party.
+------------------------------------------------
+[0006]
+Burning supplies should lower the enemy's morale. [{1Yan
+Yan}] should go to help you.
+------------------------------------------------
+[0007]
+Those guys are aiming for weapons. Let me do that!
+------------------------------------------------
+[0008]
+Damn... I wonder if I'll lose to the old man... I can't keep
+up...
+------------------------------------------------
+[0009]
+She was quite a skillful chick, but... You were a hundred
+years too early to beat me!
+------------------------------------------------
+[0010]
+Victory is now imminent. [{4Hanzhong}] Once subdued...
+[{1Guan Yu}] of [{4Jingzhou}], please attack [{4Xuchang}].
+------------------------------------------------
+[0011]
+Kuh, so far... [{1Huang Zhong}], I'm sorry...
+------------------------------------------------
+[0012]
+The two armies are mixed up in the center. It looks like
+[{1Ma Chao}] and [{1Wei Yan}] can't march either.
+------------------------------------------------
+[0013]
+Siege of [{4Dingjun Mountain}] completed. Let's launch an
+all-out attack!
+------------------------------------------------
+[0014]
+Stop here. Don't let [{2Cao Cao}] lay a finger on you!
+------------------------------------------------
+[0015]
+Get out of there, young man! I don't need anything other
+than [{2Cao Cao}]!
+------------------------------------------------
+[0016]
+……Idiot. I know nothing and I'm a drunk
+------------------------------------------------
+[0017]
+Hmm, I earned enough time. I'm withdrawing...
+------------------------------------------------
+[0018]
+Huh, you've come this far... Then I will have to deal with
+it
+------------------------------------------------
+[0019]
+[{1① system}]... The country you risked your life to create.
+If we defeat this man, we'll finally be able to move on.
+------------------------------------------------
+[0020]
+messenger! 
+------------------------------------------------
+[0021]
+messenger! I am asking for urgent help!
+------------------------------------------------
+[0022]
+It's a tough opponent. But don't lose hope
+------------------------------------------------
+[0023]
+Has the formation been disturbed...? It looks like it will
+take time to rebuild
+------------------------------------------------
+[0024]
+In a crisis, do not turn to victory with a strange move. The
+point is... if you use your wisdom, you can do anything.
+------------------------------------------------
+[0025]
+Come on! "It's crumbling too fast!"
+------------------------------------------------
+[0026]
+Hmmm.... I won't last long at this rate
+------------------------------------------------
+[0027]
+Hmmm, most of them have decided. Defeat the remaining
+enemies!
+------------------------------------------------
+[0028]
+The situation is unfavorable, but... In a difficult
+situation, there is a way to turn things around.
+------------------------------------------------
+[0029]
+More and more strong guys are coming out. I'm hungry...
+------------------------------------------------
+[0030]
+messenger! 
+------------------------------------------------
+[0031]
+messenger! I am asking for urgent help!
+------------------------------------------------

@@ -1,0 +1,194 @@
+FILE5[0002]
+******************************
+[0000]
+Defeat [{2%s}]
+------------------------------------------------
+[0001]
+[{1%s}] or
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0039]
+******************************
+[0000]
+11[{2Ou Xingjun}], retreat!
+------------------------------------------------
+[0001]
+00[{1Sun Shangxiang}], start the pursuit!
+------------------------------------------------
+[0002]
+00[{1Sun Jianjun}], march!
+------------------------------------------------
+[0003]
+23[{2Ou Xingjun}]Ambush, appear!
+------------------------------------------------
+[0004]
+23[{1Sun Shangxiang}] Legions are ambushed and confused!
+------------------------------------------------
+[0005]
+23[{1%s}] Corps, confused by a surprise attack!
+------------------------------------------------
+[0006]
+23The [{1trainer}] Corps is ambushed and confused!
+------------------------------------------------
+[0007]
+23[{1Zhu Zhi}] Legions are ambushed and confused!
+------------------------------------------------
+[0008]
+23[{1Handang}] Legions are ambushed and confused!
+------------------------------------------------
+[0009]
+23[{1Scenery}] Legions are ambushed and confused!
+------------------------------------------------
+[0010]
+11Defeat [{2Ou Xingjun}] ambush in [{4Central Beizhai}]!
+------------------------------------------------
+[0011]
+11Defeat [{2Ou Xingjun}] ambush in [{4central village}]!
+------------------------------------------------
+[0012]
+00[{4bei xi village}], open the gates!
+------------------------------------------------
+[0013]
+11[{1%s}], rescue!
+------------------------------------------------
+[0014]
+00[{4District Star Army}], open the gates!
+------------------------------------------------
+[0015]
+23In [{4beidongzhai}], [{2Ou Xingjun}] messenger, found!
+------------------------------------------------
+[0016]
+00Defeat the [{2Ou Xingjun}] messenger!
+------------------------------------------------
+[0017]
+11[{2Ou Xingjun}] messenger, defeated!
+------------------------------------------------
+[0018]
+23[{2Ou Xingjun}]Messenger, withdraw!
+------------------------------------------------
+[0019]
+23[{2Ou Xingjun}] Reinforcements have arrived!
+------------------------------------------------
+[0020]
+23[{1%s}], struggling! "Hurry and help!"
+------------------------------------------------
+[0021]
+23[{1%s}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0022]
+23[{1%s}], struggling! "Hurry and help!"
+------------------------------------------------
+[0023]
+33[{1%s}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0024]
+33[{1%s}], defeated for rout!
+------------------------------------------------
+[0025]
+33[{1%s}], defeated for rout!
+------------------------------------------------
+[0026]
+00Defeat the [{2Guo Shi}] protecting the [{4District Star Army}]!
+------------------------------------------------
+[0027]
+23[{2Ou Xingjun}] Reinforcements, march to [{4Sun Jian's army}]!
+------------------------------------------------
+[0028]
+00Defeat the [{2Ou Xingjun}] garrison commander protecting [{4bei xi village}]!
+------------------------------------------------
+[0029]
+23[{2Ou Xingjun}] Reinforcements, reaching [{4Sun Jian's army}]!
+------------------------------------------------
+[0030]
+00[{4bei xi village}], close the gates!
+------------------------------------------------
+[0031]
+23[{2Ou Xingjun}]Ambush, appear!
+------------------------------------------------
+[0032]
+23Fire gauge, occur!
+------------------------------------------------
+[0033]
+00March to the [{4District Star Army}]!
+------------------------------------------------
+[0034]
+00Rescue [{1%s}]!
+------------------------------------------------
+[0035]
+00Rescue [{1Sun Jianjun}] from the [{2Ou Xingjun}] ambush!
+------------------------------------------------
+[0036]
+11[{2Ou Xingjun}]By defeating the ambush, the fire is extinguished!
+------------------------------------------------
+[0037]
+23Trapped in [{1Zhu Zhi}], [{4bei xi village}], struggling!
+------------------------------------------------
+[0038]
+23Rescue [{1Zhu Zhi}] immediately!
+------------------------------------------------
+FILE9[0019]
+******************************
+[0000]
+Come on young, let's go
+------------------------------------------------
+[0001]
+Alright! "Wait, [{2district star}]!" If we defeat you,
+[{4Changsha}] will be ours!
+------------------------------------------------
+[0002]
+If you show your power here, you'll buy unnecessary envy.
+Won't it bring disaster to the children...
+------------------------------------------------
+[0003]
+At this rate, I'll be killed. Get out, get out!
+------------------------------------------------
+[0004]
+I don't have many enemies. Everyone, let's attack at once
+------------------------------------------------
+[0005]
+The movement of the enemy is too unnatural. Something seems
+to be happening...
+------------------------------------------------
+[0006]
+Young! "It looks like our allies are surrounded by an
+ambush!"
+------------------------------------------------
+[0007]
+[{1power}] Brother, thank you! i need to be more calm
+------------------------------------------------
+[0008]
+messenger! Trapped in [{4Walled}] and unable to move!
+------------------------------------------------
+[0009]
+What is it, big brother! I have to go help now!
+------------------------------------------------
+[0010]
+messenger! At this rate, [{1Sun Ce}]!
+------------------------------------------------
+[0011]
+I'm sorry, [{1power}]. you helped me
+------------------------------------------------
+[0012]
+It looks like [{2district star}] has issued [{2order}].
+They're probably going to call in reinforcements.
+------------------------------------------------
+[0013]
+It's troublesome when reinforcements come... That [{2order}]
+must be defeated
+------------------------------------------------
+[0014]
+Hahaha! "As expected of a young man!" You quickly plucked
+the buds of crisis!
+------------------------------------------------
+[0015]
+messenger! 
+------------------------------------------------
+[0016]
+messenger! I am asking for urgent help!
+------------------------------------------------
+[0017]
+messenger! 
+------------------------------------------------
+[0018]
+messenger! That's why I'm asking for urgent help!
+------------------------------------------------

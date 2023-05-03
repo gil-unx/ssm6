@@ -1,0 +1,478 @@
+FILE5[0002]
+******************************
+[0000]
+Annihilation of [{2enemy}] legions
+------------------------------------------------
+[0001]
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0045]
+******************************
+[0000]
+00Break through [{4Shouchun City West Gate}]!
+------------------------------------------------
+[0001]
+23Attack with [{2Yuan Shujun}] and [{5Ballista}]!
+------------------------------------------------
+[0002]
+00Defeat [{2%s}] and capture [{5Ballista}]!
+------------------------------------------------
+[0003]
+11[{2%s}], withdraw!
+------------------------------------------------
+[0004]
+11[{5Ballista}], seize!
+------------------------------------------------
+[0005]
+23[{2Yuan Shujun}] archers on the ramparts, attack!
+------------------------------------------------
+[0006]
+00Defeat the [{2Yuan Shujun}] archers on the ramparts!
+------------------------------------------------
+[0007]
+11[{2Yuan Shujun}] Archers defeated!
+------------------------------------------------
+[0008]
+23[{2Yuan Shujun}]Stoners, appear!
+------------------------------------------------
+[0009]
+00It seems that the [{5Rush car}] can't get close to the castle gate with a stone attack!
+------------------------------------------------
+[0010]
+00Defeat the [{2Yuan Shujun}] Slingers on the ramparts!
+------------------------------------------------
+[0011]
+11[{2Yuan Shujun}] Slingers defeated!
+------------------------------------------------
+[0012]
+00Eliminate the [{2Yuan Shujun}] in front of [{4Shouchun City West Gate}]!
+------------------------------------------------
+[0013]
+00March to [{4Shouchun City West Gate}]!
+------------------------------------------------
+[0014]
+00[{4Shouchun City West Gate}], open!
+------------------------------------------------
+[0015]
+00[{1Sun Cejun}] Engineering Corps, begin moving to [{4Shouchun City Gate}]!
+------------------------------------------------
+[0016]
+00[{1Sun Cejun}] Engineering Corps, open the [{4Shouchun City Gate}]!
+------------------------------------------------
+[0017]
+00[{1Sun Cejun}] Engineering Corps, prepare to destroy [{4Shouchun City West Gate}]!
+------------------------------------------------
+[0018]
+00[{4Shouchun City}] Wait inside the castle!
+------------------------------------------------
+[0019]
+00[{1Sun Cejun}] Engineering Corps, Destroy [{4Shouchun City West Gate}]!
+------------------------------------------------
+[0020]
+00[{1Combined Army}], blockade [{4Shouchun City}] to prevent [{2Yuan Shu}] from escaping!
+------------------------------------------------
+[0021]
+00Eliminate the generals of [{2Yuan Shujun}] in the castle!
+------------------------------------------------
+[0022]
+00[{4Shouchun City Inner City}], open the gates!
+------------------------------------------------
+[0023]
+00It seems that [{2Yuan Shujun}] is still hiding in the castle!
+------------------------------------------------
+[0024]
+00Search the castle and wipe out [{2Yuan Shujun}] generals!
+------------------------------------------------
+[0025]
+00[{2%s}], found!
+------------------------------------------------
+[0026]
+00There doesn't seem to be a [{2Yuan Shujun}] general here!
+------------------------------------------------
+[0027]
+11Defeat all [{2Yuan Shujun}] generals!
+------------------------------------------------
+[0028]
+00[{4Shouchun City}], open the gates!
+------------------------------------------------
+[0029]
+23Found [{2Yuan Shu}] fleeing outside the castle!
+------------------------------------------------
+[0030]
+00Pursue and defeat [{2Yuan Shu}]!
+------------------------------------------------
+[0031]
+00[{1Sun Ce}], charge [{2Yuan Shu}]!
+------------------------------------------------
+[0032]
+00Some soldiers of [{2Yuan Shujun}] seem to have rebelled!
+------------------------------------------------
+[0033]
+23[{2Yuan Shu}], resumed moving towards [{4Escape location}]!
+------------------------------------------------
+[0034]
+23[{2Yuan Shu}], approaching [{4Escape location}]!
+------------------------------------------------
+[0035]
+23[{1Cao Cao}], struggle! "Hurry and help!"
+------------------------------------------------
+[0036]
+23[{1Cao Cao}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0037]
+41[{2Yuan Shu}], defeated!
+------------------------------------------------
+[0038]
+33[{1Cao Cao}], defeated for rout!
+------------------------------------------------
+[0039]
+33Reached [{2Yuan Shu}], [{4Escape location}]!
+------------------------------------------------
+[0040]
+00Defeat the archers north of the ramparts with [{5Ballista}] to the north!
+------------------------------------------------
+[0041]
+00Defeat the archers south of the ramparts with [{5Ballista}] to the south!
+------------------------------------------------
+[0042]
+00Defeat the stone throwers north of the ramparts with [{5Ballista}] to the north!
+------------------------------------------------
+[0043]
+00Defeat the stone throwers south of the ramparts with [{5Ballista}] to the south!
+------------------------------------------------
+[0044]
+00dummy
+------------------------------------------------
+FILE9[0099]
+******************************
+[0000]
+[{1Shangxiang}], we're heading to [{4Simon}] as well. I will
+assist my brother
+------------------------------------------------
+[0001]
+Posing as an emperor with a jewel in hand... huh? The
+current [{2Yuan Shu}] is just a nuisance to us.
+------------------------------------------------
+[0002]
+Yes, people are also suffering from bad government. For
+their sake, we must defeat [{2Yuan Shu}].
+------------------------------------------------
+[0003]
+Hmm. Fight for the people, huh? you are a kind person
+------------------------------------------------
+[0004]
+ok now! Show me the power of the cannon!
+------------------------------------------------
+[0005]
+Damn it, it's a species that lives. I can't keep up with you
+anymore!
+------------------------------------------------
+[0006]
+[{1Shangxiang}], [{5Ballista}] should reach [{4city wall}].
+Wipe out your enemies
+------------------------------------------------
+[0007]
+Well done, [{1Shangxiang}]. Amazing skill!
+------------------------------------------------
+[0008]
+Will even [{1Sun Ce}] attack [{2Yuan Shu}]? ……This may be
+the tide
+------------------------------------------------
+[0009]
+If I keep following [{2Yuan Shu}], I have no chance of
+winning. I'll let you go
+------------------------------------------------
+[0010]
+Nearby enemies seem to have been wiped out. Attack
+[{4Simon}]. Prepare the [{5Rush car}]!
+------------------------------------------------
+[0011]
+The surrounding enemies seem to have been wiped out.
+Alright, attack [{4Simon}]. Prepare the [{5Rush car}]!
+------------------------------------------------
+[0012]
+The enemy should just shut up and break down the gate...
+However, attacks cannot reach above [{4city wall}]
+------------------------------------------------
+[0013]
+[{1Shangxiang}], [{5Ballista}] take out the enemy!
+------------------------------------------------
+[0014]
+First, I have to do something about the enemy's stone
+throwing. Then attack with [{5Rush car}]
+------------------------------------------------
+[0015]
+Use [{1Shangxiang}] and [{5Ballista}] to eliminate the
+enemy!
+------------------------------------------------
+[0016]
+Alright, the stone-throwing attack seems to have stopped.
+Now you can attack the gate
+------------------------------------------------
+[0017]
+I'm ready. Destroy the gate with [{5Rush car}]!
+------------------------------------------------
+[0018]
+Here we go! 
+------------------------------------------------
+[0019]
+Why are you here? [{1Sun Ce}] should have requested
+[{4Simon}] to attack your army.
+------------------------------------------------
+[0020]
+[{1Shangxiang}], we will secure this place. Please help me
+with [{4Simon}]
+------------------------------------------------
+[0021]
+[{1Shangxiang}], what we have to do is capture [{4Simon}].
+I'll start right away
+------------------------------------------------
+[0022]
+Why is the Princess of Sun Wu here? Aren't they attacking
+[{4Simon}]?
+------------------------------------------------
+[0023]
+All right, the gate is open. Let's go, [{1Shangxiang}]!
+Invade [{4in the city}]!
+------------------------------------------------
+[0024]
+I can't seem to see [{2Yuan Shu}]. I need to search [{4in
+the city}] all over
+------------------------------------------------
+[0025]
+[{2Yuan Shu}] is not here! It's no use searching!
+------------------------------------------------
+[0026]
+Damn, did you find it...? Then we have to fight!
+------------------------------------------------
+[0027]
+All the enemies in [{4in the city}] should have been
+defeated. I can't see [{2Yuan Shu}]...
+------------------------------------------------
+[0028]
+[{2Yuan Shu}]Are you trying to escape? [{1Shangxiang}], go
+after him!
+------------------------------------------------
+[0029]
+Unu, did you catch up...? It can't be helped, I'll be your
+opponent
+------------------------------------------------
+[0030]
+[{2Yuan Shu}]Hey, luxury! Let's take his treasure!
+------------------------------------------------
+[0031]
+I am no longer the general of [{2Yuan Shu}]. let's cooperate
+with you
+------------------------------------------------
+[0032]
+Yes, I am the emperor. Hold back, you bastards!
+------------------------------------------------
+[0033]
+[{1Shangxiang}], come with me. It's dangerous to go in a
+hurry
+------------------------------------------------
+[0034]
+You are so kind thank you!
+------------------------------------------------
+[0035]
+Let's punish [{2Yuan Shu}]. That's right... for the sake of
+the people!
+------------------------------------------------
+[0036]
+Do you think so too, [{1Shangxiang}]? Phew... you're a
+strange person in this war-torn world.
+------------------------------------------------
+[0037]
+Fufu, you say something strange. Then you're not a weirdo
+either
+------------------------------------------------
+[0038]
+Cut down all who stand with [{2Yuan Shu}]. don't miss a
+single person
+------------------------------------------------
+[0039]
+I will destroy all those who are hostile to me, huh...
+[{1Cao Cao}] is a scary and dangerous man.
+------------------------------------------------
+[0040]
+It looks like [{1Cao Cao}] is having a tough time. The
+crisis of the commander-in-chief cannot be overlooked
+------------------------------------------------
+[0041]
+Yes brother. Even a disgusting old man is a general
+------------------------------------------------
+[0042]
+No, at this rate the general will be defeated!
+[{1Shangxiang}], rush to the rescue!
+------------------------------------------------
+[0043]
+Were you able to defeat [{2Yuan Shu}]? [{1Shangxiang}], you
+did a great job.
+------------------------------------------------
+[0044]
+I'm part of the grandchildren's family too. It's so obvious!
+------------------------------------------------
+[0045]
+Kuh. If the supreme commander is killed, there will be no
+victory
+------------------------------------------------
+[0046]
+Did you let [{2Yuan Shu}] escape...? This is the same as
+losing this battle
+------------------------------------------------
+[0047]
+messenger! 
+------------------------------------------------
+[0048]
+messenger! I am asking for urgent help!
+------------------------------------------------
+[0049]
+
+------------------------------------------------
+[0050]
+
+------------------------------------------------
+[0051]
+
+------------------------------------------------
+[0052]
+
+------------------------------------------------
+[0053]
+
+------------------------------------------------
+[0054]
+
+------------------------------------------------
+[0055]
+
+------------------------------------------------
+[0056]
+
+------------------------------------------------
+[0057]
+
+------------------------------------------------
+[0058]
+
+------------------------------------------------
+[0059]
+
+------------------------------------------------
+[0060]
+
+------------------------------------------------
+[0061]
+
+------------------------------------------------
+[0062]
+
+------------------------------------------------
+[0063]
+
+------------------------------------------------
+[0064]
+
+------------------------------------------------
+[0065]
+
+------------------------------------------------
+[0066]
+
+------------------------------------------------
+[0067]
+
+------------------------------------------------
+[0068]
+
+------------------------------------------------
+[0069]
+
+------------------------------------------------
+[0070]
+
+------------------------------------------------
+[0071]
+
+------------------------------------------------
+[0072]
+
+------------------------------------------------
+[0073]
+
+------------------------------------------------
+[0074]
+
+------------------------------------------------
+[0075]
+
+------------------------------------------------
+[0076]
+
+------------------------------------------------
+[0077]
+
+------------------------------------------------
+[0078]
+
+------------------------------------------------
+[0079]
+
+------------------------------------------------
+[0080]
+
+------------------------------------------------
+[0081]
+
+------------------------------------------------
+[0082]
+
+------------------------------------------------
+[0083]
+
+------------------------------------------------
+[0084]
+
+------------------------------------------------
+[0085]
+
+------------------------------------------------
+[0086]
+
+------------------------------------------------
+[0087]
+
+------------------------------------------------
+[0088]
+
+------------------------------------------------
+[0089]
+
+------------------------------------------------
+[0090]
+
+------------------------------------------------
+[0091]
+
+------------------------------------------------
+[0092]
+
+------------------------------------------------
+[0093]
+
+------------------------------------------------
+[0094]
+
+------------------------------------------------
+[0095]
+
+------------------------------------------------
+[0096]
+
+------------------------------------------------
+[0097]
+
+------------------------------------------------
+[0098]
+
+------------------------------------------------

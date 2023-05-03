@@ -1,0 +1,209 @@
+FILE5[0002]
+******************************
+[0000]
+Defeat [{2%s}]
+------------------------------------------------
+[0001]
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0044]
+******************************
+[0000]
+00Conquer [{4Bingku}] on [{2Wei Jun}]!
+------------------------------------------------
+[0001]
+23[{2Sima Shi}], appear!
+------------------------------------------------
+[0002]
+23[{2Wei Jun}]Ambush, appear!
+------------------------------------------------
+[0003]
+23[{2Wei Jun}]The commando unit has arrived!
+------------------------------------------------
+[0004]
+23[{2Wei Jun}]Ambush, appear!
+------------------------------------------------
+[0005]
+23[{2Wei Jun}] Commando unit found!
+------------------------------------------------
+[0006]
+11[{2Wei Jun}]Ambush, defeated!
+------------------------------------------------
+[0007]
+00[{1Zhuge Liang}], struggling! "Hurry and help!"
+------------------------------------------------
+[0008]
+00[{1Zhuge Liang}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0009]
+33[{1Zhuge Liang}], defeated for rout!
+------------------------------------------------
+[0010]
+33[{1Zhuge Liang}], defeated for rout!
+------------------------------------------------
+[0011]
+00Defeat [{2Sima Shi}] and conquer [{4Bingku}]!
+------------------------------------------------
+[0012]
+23Watch out for the rout of [{1Zhuge Liang}]!
+------------------------------------------------
+[0013]
+11[{1Shu Army}], raise morale!
+------------------------------------------------
+[0014]
+11[{2Wei Jun}]The commando unit is defeated!
+------------------------------------------------
+[0015]
+41[{4Bingku}], subdued!
+------------------------------------------------
+[0016]
+11Attack on [{1Shu Army}], [{4Xizhai}] to the west!
+------------------------------------------------
+[0017]
+11Attack on [{1Shu Army}], [{4Nandong Village}] to the east!
+------------------------------------------------
+[0018]
+00[{4Bingku}]East gate, open!
+------------------------------------------------
+[0019]
+00Climb ladders and explore clifftops!
+------------------------------------------------
+[0020]
+11[{4Xizhai}], subdued!
+------------------------------------------------
+[0021]
+11[{4Nandong Village}], conquered!
+------------------------------------------------
+[0022]
+00Defeat the [{2Wei Jun}] commando attacking [{1Zhuge Liang}]!
+------------------------------------------------
+[0023]
+00Conquer key points in the east and west, and prepare to advance!
+------------------------------------------------
+[0024]
+11Key points in the east and west, conquered!
+------------------------------------------------
+[0025]
+23[{2Xiahou Ba}], begin marching towards [{1Zhuge Liang}]!
+------------------------------------------------
+[0026]
+00[{4Xizhai}] West gate open!
+------------------------------------------------
+[0027]
+00[{4Xizhai}] West gate closed!
+------------------------------------------------
+[0028]
+00[{4Nandong Village}] South Gate, Open!
+------------------------------------------------
+[0029]
+00[{4Nandong Village}] South gate closed!
+------------------------------------------------
+[0030]
+23[{2Sima Shi}], here we come!
+------------------------------------------------
+[0031]
+00[{4Bingku}]East gate closed!
+------------------------------------------------
+[0032]
+00The door seems to be closed tightly!
+------------------------------------------------
+[0033]
+00There are signs of [{2Wei Jun}] on the cliffs near [{4Shu army main formation}]!
+------------------------------------------------
+[0034]
+00Find out before you get a surprise attack!
+------------------------------------------------
+[0035]
+00I found a suspicious ladder!
+------------------------------------------------
+[0036]
+00[{2Wei Jun}], begin marching to intercept!
+------------------------------------------------
+[0037]
+41[{2Wei Jun}], retreat!
+------------------------------------------------
+[0038]
+11[{2Wei Jun}]Squadron, upset!
+------------------------------------------------
+[0039]
+23[{2Xiahou Ba}], start marching towards [{1Shu army main formation}]!
+------------------------------------------------
+[0040]
+00Defeat the [{2Wei Jun}] surprise attack unit targeting the [{1Shu army main formation}]!
+------------------------------------------------
+[0041]
+23[{1Shu army main formation}], struggling! "Promptly help!"
+------------------------------------------------
+[0042]
+23[{1Shu army main formation}], in danger of falling! "Promptly help!"
+------------------------------------------------
+[0043]
+33[{1Shu army main formation}], defeated!
+------------------------------------------------
+FILE9[0018]
+******************************
+[0000]
+It seems that supplies have been brought to the enemy's
+base. Let's raid this and seize supplies
+------------------------------------------------
+[0001]
+I have to put myself in [{2Sima Yi}]'s shoes and read
+through the plan... If I were him, I'd put my troops on
+[{4cliff}] around [{4Shu Benzhen}]!
+------------------------------------------------
+[0002]
+There is a place where you can climb ahead. Head over to
+[{4cliff}] from there
+------------------------------------------------
+[0003]
+After all, ambushes were lurking! Chancellor, I'll be right
+there!
+------------------------------------------------
+[0004]
+Dear [{1Jiang Wei}], enemy soldiers have appeared around
+[{4Honjin}]! At this rate, [{4Honjin}] is in danger!
+------------------------------------------------
+[0005]
+I will show no mercy to those who harm the Chancellor!
+[{2Guo Huai}], brace yourself!
+------------------------------------------------
+[0006]
+Gohogoho, my body is at its limit... However, [{1Zhuge
+Liang}] may also...
+------------------------------------------------
+[0007]
+Prime Minister, are you all right? ?
+------------------------------------------------
+[0008]
+Don't worry.... you continue to take the lead
+------------------------------------------------
+[0009]
+[{1Kong Ming}]'s body is already sick... That is why,
+[{1Jiang Wei}], I give you command...
+------------------------------------------------
+[0010]
+I was stupid... I was always relying on the Prime Minister.
+I will respond to the Chancellor's wishes with victory!
+------------------------------------------------
+[0011]
+You're here again, [{1Jiang Wei}]! [{2Sima Yi}], your
+reading was right!
+------------------------------------------------
+[0012]
+This is a bit of a tough situation...
+------------------------------------------------
+[0013]
+[{1Kong Ming}] is in danger! go to the rescue immediately
+------------------------------------------------
+[0014]
+messenger! I am asking for urgent help!
+------------------------------------------------
+[0015]
+My life so far... I wanted to see [{1Jiang Wei}] grow...
+------------------------------------------------
+[0016]
+Mr. [{1Kong Ming}]...
+------------------------------------------------
+[0017]
+messenger! 
+------------------------------------------------

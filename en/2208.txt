@@ -1,0 +1,181 @@
+FILE5[0002]
+******************************
+[0000]
+Defeat [{2%s}]
+------------------------------------------------
+[0001]
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0017]
+******************************
+[0000]
+00Secure the drawbridge!
+------------------------------------------------
+[0001]
+00Drawbridge, drop!
+------------------------------------------------
+[0002]
+00dummy
+------------------------------------------------
+[0003]
+23[{1Cao Caojun}] suffered extensive damage due to the fire attack!
+------------------------------------------------
+[0004]
+23[{1Cao Hong}] corps withdraws due to fire attack damage!
+------------------------------------------------
+[0005]
+23[{1Cao Caojun}] suffers tremendous damage from [{2enemy}]'s crossbows!
+------------------------------------------------
+[0006]
+23[{1Lu Qian}] Corps withdraws due to damage from crossbows!
+------------------------------------------------
+[0007]
+23[{2Liu Biaojun}], here we come!
+------------------------------------------------
+[0008]
+00[{1%s}], [{1%s}], covert action begins!
+------------------------------------------------
+[0009]
+00[{1Guo Jia}], [{1Li Dian}], impact!
+------------------------------------------------
+[0010]
+00Attract [{2Zhang Xuanjun}] to [{4Strategic location}]!
+------------------------------------------------
+[0011]
+11Surprise [{1%s}], [{1%s}], and [{2Zhang Xuanjun}]!
+------------------------------------------------
+[0012]
+11[{2Zhang Xuanjun}], confusion!
+------------------------------------------------
+[0013]
+23[{1Le Jin}], struggling! "Hurry and help!"
+------------------------------------------------
+[0014]
+23[{1Le Jin}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0015]
+33[{1Le Jin}], defeated for rout!
+------------------------------------------------
+[0016]
+23[{2Liu Biaojun}], start marching towards [{4Cao Cao's main formation}]!
+------------------------------------------------
+FILE9[0033]
+******************************
+[0000]
+Drop [{4Wancheng}]! I don't need mercy. Defeat all enemies!
+------------------------------------------------
+[0001]
+Attack from the castle's [{4east gate}] and [{4south gate}]!
+All troops, move on!
+------------------------------------------------
+[0002]
+Hey, you did it! Don't underestimate a man like [{2Jia
+④}]...
+------------------------------------------------
+[0003]
+messenger! 
+------------------------------------------------
+[0004]
+[{1mend}], it's a crossbow! "Be careful!"
+------------------------------------------------
+[0005]
+messenger! We're under attack from a crossbow!
+------------------------------------------------
+[0006]
+Kuh, is this also an order from [{2Jia ④}]?
+------------------------------------------------
+[0007]
+The guy who deceived [{1Dianwei}] is out there, right? I'll
+beat you!
+------------------------------------------------
+[0008]
+Do not accept the invitation of [{2Jia ④}]. I'll leave once.
+On the contrary, let me invite you out……
+------------------------------------------------
+[0009]
+…Keep calm, [{1mend}]. Do you feel nothing for
+[{1Dianwei}]'s death?
+------------------------------------------------
+[0010]
+Hey, I can't go on like this. I will kill [{2Jia ④}]!
+------------------------------------------------
+[0011]
+Little by little, you're just setting troublesome traps!
+Lord! "I'll catch [{2Jia ④}]'s bastard!"
+------------------------------------------------
+[0012]
+[{2Jia ④}] would not be able to attack with anger. I'll
+leave once. On the contrary, let me invite you out……
+------------------------------------------------
+[0013]
+messenger!Heading to [{4Flavor Honjin}]!
+------------------------------------------------
+[0014]
+messenger!
+------------------------------------------------
+[0015]
+Hmm, did you come out after all...
+------------------------------------------------
+[0016]
+Now is the time to avenge [{2Zhang Xuan}]. [{4west bridge}]
+Keep your men ambushed nearby.
+------------------------------------------------
+[0017]
+have understood. 
+------------------------------------------------
+[0018]
+Go behind [{2Zhang Xuan}] now. Signal the ambush!
+------------------------------------------------
+[0019]
+Hey! "W-what did you do before you knew it!"
+------------------------------------------------
+[0020]
+[{1mend}], [{1Guo Jia}]'s surprise attack has been
+successful! The enemy is confused, it's time to avenge
+[{2Zhang Xuan}]!
+------------------------------------------------
+[0021]
+Hey, I don't want you to steal [{4Wan}] from me! Don't
+underestimate this [{2Zhang Xuan}]!
+------------------------------------------------
+[0022]
+I'm going to do a petty imitation...! Don't underestimate
+this [{2Zhang Xuan}]!
+------------------------------------------------
+[0023]
+messenger! 
+------------------------------------------------
+[0024]
+Did you panic when you saw [{2Zhang Xuan}]'s predicament?
+Hurry up and come out...I'll take revenge on you
+------------------------------------------------
+[0025]
+[{1Dianwei}], I'm watching you... I will protect [{1Cao
+Cao}] no matter what!
+------------------------------------------------
+[0026]
+Lord, please leave the enemy behind me to me! I'm begging
+you to avenge [{1Dianwei}]!
+------------------------------------------------
+[0027]
+Well, [{2Zhang Xuan}] is also a troubled person. I told you
+to watch out for ambushes
+------------------------------------------------
+[0028]
+However, [{1Cao Cao}]. You're bigger than rumored. In this
+situation, I'll calmly clap my hands
+------------------------------------------------
+[0029]
+[{4Honjin}]'s [{1Le Jin}] seems to be struggling...
+[{1mend}], better go to the rescue
+------------------------------------------------
+[0030]
+At this rate, [{4Honjin}] will be dropped. [{1mend}], are
+you trying to sit back?
+------------------------------------------------
+[0031]
+messenger! 
+------------------------------------------------
+[0032]
+messenger! I am asking for urgent help!
+------------------------------------------------

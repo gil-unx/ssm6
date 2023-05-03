@@ -1,0 +1,330 @@
+FILE5[0002]
+******************************
+[0000]
+Defeat [{2%s}]
+------------------------------------------------
+[0001]
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0061]
+******************************
+[0000]
+02[{1%s}], begin marching towards [{5Strategic location}]!
+------------------------------------------------
+[0001]
+23[{1Zhu Ran}], ignore the instructions!
+------------------------------------------------
+[0002]
+23[{2Guan Suo}]'s ferocious attack causes severe damage to [{1Wu army}]!
+------------------------------------------------
+[0003]
+23Help us urgently!
+------------------------------------------------
+[0004]
+23[{2Guan Suo}]'s fierce attack threatens to destroy [{1Wu army}]!
+------------------------------------------------
+[0005]
+23Defeat [{2Guan Suo}] as soon as possible!
+------------------------------------------------
+[0006]
+00At [{1Lu Xun}]'s provocation, [{2Guan Suo}] went into a rage!
+------------------------------------------------
+[0007]
+00Pull [{2Guan Suo}] in front of [{4Wu army headquarters}]!
+------------------------------------------------
+[0008]
+11[{1Wu army}]Ambush, appear!
+------------------------------------------------
+[0009]
+11[{2Guan Suo}], upset!
+------------------------------------------------
+[0010]
+11[{2Guan Suo}], defeated!
+------------------------------------------------
+[0011]
+11[{1fire force}], start marching!
+------------------------------------------------
+[0012]
+11Fire gauge, success!
+------------------------------------------------
+[0013]
+00[{1Wu army}], launch all-out attack!
+------------------------------------------------
+[0014]
+23[{2Shu Army}] Reinforcements coming!
+------------------------------------------------
+[0015]
+00[{2Liu Bei}], start retreating!
+------------------------------------------------
+[0016]
+23[{2Liu Bei}] and [{2Zhuge Liang}] have retreated into [{5Stone soldiers eight formations}]!
+------------------------------------------------
+[0017]
+02[{5Stone soldiers eight formations}]Defeat the [{2Zhao Yun}] guarding the entrance!
+------------------------------------------------
+[0018]
+23[{1sun yi}], struggling! "Hurry and help!"
+------------------------------------------------
+[0019]
+23[{1sun yi}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0020]
+33[{1sun yi}], defeated for rout!
+------------------------------------------------
+[0021]
+00Defeat the [{2Shu Army}] on the front line!
+------------------------------------------------
+[0022]
+00Go to [{1Zhu Ran}]!
+------------------------------------------------
+[0023]
+23Retreat to [{5Stone soldiers eight formations}]!
+------------------------------------------------
+[0024]
+00Defeat [{2Guan Suo}]!
+------------------------------------------------
+[0025]
+23Killed by [{1Fu Shiren}] and [{2Guan Suo}]!
+------------------------------------------------
+[0026]
+23[{1Mi Fang}], defeated by [{2Guan Suo}]!
+------------------------------------------------
+[0027]
+23Killed by [{1Fan Qiang}] and [{2Guan Suo}]!
+------------------------------------------------
+[0028]
+23Killed by [{1Zhang Da}] and [{2Guan Suo}]!
+------------------------------------------------
+[0029]
+23[{1Handang}], defeated by [{2Guan Suo}]!
+------------------------------------------------
+[0030]
+23Killed by [{1Ma Zhong}] and [{2Guan Suo}]!
+------------------------------------------------
+[0031]
+23[{1Pan Zhang}], routed by [{2Guan Suo}]!
+------------------------------------------------
+[0032]
+00Approach [{2Guan Suo}] and provoke him!
+------------------------------------------------
+[0033]
+23[{1Lu Xun}]'s plan failed!
+------------------------------------------------
+[0034]
+23[{2Guan Suo}] seems to have regained his composure!
+------------------------------------------------
+[0035]
+00Defeat the [{2Shu Army}] ambush that is interfering with the fire attack!
+------------------------------------------------
+[0036]
+11Reached [{1%s}], [{5Strategic location}]!
+------------------------------------------------
+[0037]
+00[{2Shu Army}] rear guard unit, [{1Wu army}] start marching towards the main camp!
+------------------------------------------------
+[0038]
+23[{2Shu Army}] Ambush, appear!
+------------------------------------------------
+[0039]
+00[{4Second Array}]South Gate, Open!
+------------------------------------------------
+[0040]
+00[{4Shu army full array}], gates open!
+------------------------------------------------
+[0041]
+00[{2Guan Suo}], march!
+------------------------------------------------
+[0042]
+23[{1Zhu Ran}], halt the march!
+------------------------------------------------
+[0043]
+11[{1Zhu Ran}], resume your march!
+------------------------------------------------
+[0044]
+00Assist [{1Zhu Ran}] to [{5Strategic location}]!
+------------------------------------------------
+[0045]
+00[{4Four formations}] All gates open!
+------------------------------------------------
+[0046]
+00Find [{2Liu Bei}] and destroy it!
+------------------------------------------------
+[0047]
+00[{2%s}], appear!
+------------------------------------------------
+[0048]
+00[{2%s}], rouse!
+------------------------------------------------
+[0049]
+00[{4Second Array}] All gates open!
+------------------------------------------------
+[0050]
+00[{4Second Array}] All gates closed!
+------------------------------------------------
+[0051]
+00[{4three formations}] All gates open!
+------------------------------------------------
+[0052]
+00[{4three formations}] All gates closed!
+------------------------------------------------
+[0053]
+00[{2Liu Bei}], [{4Second Array}] appeared in the west!
+------------------------------------------------
+[0054]
+00[{2Liu Bei}], [{4three formations}] appeared in the north!
+------------------------------------------------
+[0055]
+00[{1%s}], begin marching towards [{4Strategic location}]!
+------------------------------------------------
+[0056]
+00Reached [{1%s}], [{4Strategic location}]!
+------------------------------------------------
+[0057]
+23Failed to attract [{2Guan Suo}]!
+------------------------------------------------
+[0058]
+23[{1%s}], struggling! "Hurry and help!"
+------------------------------------------------
+[0059]
+23[{1%s}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0060]
+33[{1%s}], defeated for rout!
+------------------------------------------------
+FILE9[0037]
+******************************
+[0000]
+I can see the turbulence in the march left to anger. There
+is no hand that does not poke there
+------------------------------------------------
+[0001]
+Use a torch. [{1Zhu Ran}] and [{1Zhou Tai}], please prepare!
+------------------------------------------------
+[0002]
+[{1Zhu Ran}], do you have any objections? [{1fire force}]
+has no movement
+------------------------------------------------
+[0003]
+Dear [{1Zhu Ran}], please act immediately.
+------------------------------------------------
+[0004]
+We are fighting for our lives on the front lines. Please
+stay in the safe rear and take a rest.
+------------------------------------------------
+[0005]
+[{1Lu Xun}], don't be discouraged... It was a very sudden
+selection, so...
+------------------------------------------------
+[0006]
+... everyone's complaints are understandable. I'm immature,
+so I have to move forward!
+------------------------------------------------
+[0007]
+report! 
+------------------------------------------------
+[0008]
+If this goes on……. 
+------------------------------------------------
+[0009]
+I will be the decoy! [{4Honjin}] If you pull it forward...
+you have a chance of winning
+------------------------------------------------
+[0010]
+[{2 Guan Suo}]! I was the one who trapped [{2Guan Yu}] in
+[{4Fancheng}]! If you want my neck, follow me!
+------------------------------------------------
+[0011]
+My father's enemy... Now is the time to defeat him with my
+own hands!
+------------------------------------------------
+[0012]
+Archers, now!
+------------------------------------------------
+[0013]
+Ha! "Is this a trap!"
+------------------------------------------------
+[0014]
+Messenger from [{1Zhu Ran}]! Respect for the ingenuity and
+courage of the strategist
+------------------------------------------------
+[0015]
+Hehe, it looks like you've earned [{1Zhu Ran}]'s trust.
+------------------------------------------------
+[0016]
+Messenger from [{1Zhu Ran}]! "Fighting is the duty of a
+general." It is said that you can not fall behind the
+tactician's bravery
+------------------------------------------------
+[0017]
+Fufu, [{1Zhu Ran}] isn't honest either. However, it seems
+that you have trusted [{1Lu Xun}].
+------------------------------------------------
+[0018]
+All right, the fire meter is a success! Take down a lone
+enemy!
+------------------------------------------------
+[0019]
+It's a big reversal! After all, aren't you amazing!
+------------------------------------------------
+[0020]
+[{2Liu Bei}]'s large army is now a rabble. I followed your
+instructions and was correct.
+------------------------------------------------
+[0021]
+report! It seems to be led by [{2Zhao Yun}] and [{2Zhuge
+Liang}]!
+------------------------------------------------
+[0022]
+Don't let [{2Liu Bei}] come near you! No matter how many
+people come here!
+------------------------------------------------
+[0023]
+messenger! 
+------------------------------------------------
+[0024]
+messenger! I am asking for urgent help!
+------------------------------------------------
+[0025]
+It's an eerie place. Prepared by that [{2Zhuge Liang}],
+beware
+------------------------------------------------
+[0026]
+There are creepy patterns on the walls. In some places, it
+looks like a humanoid...
+------------------------------------------------
+[0027]
+What on earth is here...
+------------------------------------------------
+[0028]
+I've been waiting for you... This weapon and I will be your
+opponents!
+------------------------------------------------
+[0029]
+Weapons are still working... After all, I have to defeat the
+[{2Zhuge Liang}] teacher...
+------------------------------------------------
+[0030]
+In a heart that prides itself on its strength, a gap is
+born... I was so easily isolated
+------------------------------------------------
+[0031]
+Sun Wu's young talent...[{1Lu Xun}]. Defeating [{4Stone
+soldiers eight formations}] is spectacular
+------------------------------------------------
+[0032]
+I will avenge [{2long cloud}]! Even if I become the last
+soldier, I will not stop fighting!
+------------------------------------------------
+[0033]
+Not yet, it's not over yet! I won't fall until [{2long
+cloud}] has avenged me!
+------------------------------------------------
+[0034]
+messenger! 
+------------------------------------------------
+[0035]
+messenger! I am asking for urgent help!
+------------------------------------------------
+[0036]
+I'm sorry too! I lost sight of the enemy commander-in-chief!
+------------------------------------------------

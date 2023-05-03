@@ -1,0 +1,245 @@
+FILE5[0002]
+******************************
+[0000]
+Defeat [{2%s}]
+------------------------------------------------
+[0001]
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0034]
+******************************
+[0000]
+00It seems that [{2Cao Caojun}] has been severely damaged by the fire attack!
+------------------------------------------------
+[0001]
+02Pursue [{2Cao Cao}]!
+------------------------------------------------
+[0002]
+00[{2Xu ⑥}], drop the bridge on the north side of the ship and start retreating!
+------------------------------------------------
+[0003]
+00The central fleet burst into flames due to the southeast wind!
+------------------------------------------------
+[0004]
+00[{2Cao Caojun}], great damage!
+------------------------------------------------
+[0005]
+00[{1Sun Yijun}]Central warships, start marching!
+------------------------------------------------
+[0006]
+00[{1Sun Yijun}]Eastern warships march!
+------------------------------------------------
+[0007]
+00[{1Sun Yijun}]Western warships begin marching!
+------------------------------------------------
+[0008]
+00[{2Cao Cao}] warships start moving!
+------------------------------------------------
+[0009]
+23It seems that [{2Cao Cao}] has disappeared from the [{2Cao Caojun}] camp!
+------------------------------------------------
+[0010]
+00It seems that [{2Cao Cao}] was a decoy!
+------------------------------------------------
+[0011]
+23[{2Cao Caojun}]Ambush, appear!
+------------------------------------------------
+[0012]
+02[{2Cao Caojun}]Defeat the ambush!
+------------------------------------------------
+[0013]
+00[{2Cao Caojun}]Ambush, defeated!
+------------------------------------------------
+[0014]
+00Due to the southeast wind, the western fleet is on fire!
+------------------------------------------------
+[0015]
+11[{2Cao Caojun}], great damage!
+------------------------------------------------
+[0016]
+23[{2Cao Caojun}] Reinforcements have arrived!
+------------------------------------------------
+[0017]
+00Warship ferry, drop!
+------------------------------------------------
+[0018]
+00[{2Cao Cao}], found!
+------------------------------------------------
+[0019]
+23[{2Cao Cao}], rouse!
+------------------------------------------------
+[0020]
+00[{1Zhou Yu}], temporarily withdraw!
+------------------------------------------------
+[0021]
+23[{1sun yi}], struggling! "Hurry and help!"
+------------------------------------------------
+[0022]
+23[{1sun yi}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0023]
+00[{1Sun Yijun}], march!
+------------------------------------------------
+[0024]
+23[{1Sun Yijun}], [{2Cao Caojun}] upset by the ambush!
+------------------------------------------------
+[0025]
+23It seems that [{2Cao Cao}] has evacuated from the ship!
+------------------------------------------------
+[0026]
+23[{2Xiahou Dun}] is here to help [{2Cao Cao}]!
+------------------------------------------------
+[0027]
+02Defeat [{2Cao Cao}] before [{2Xiahou Dun}] joins up!
+------------------------------------------------
+[0028]
+33Reached [{2Cao Cao}], [{5Escape location}]!
+------------------------------------------------
+[0029]
+33Start moving towards [{2Cao Cao}], [{5Escape location}]!
+------------------------------------------------
+[0030]
+23[{2Xiahou Dun}], [{4Huarong Nanguan}] open the gates!
+------------------------------------------------
+[0031]
+11Stopped by [{2Cao Cao}] and [{4Huarong Nanguan}]!
+------------------------------------------------
+[0032]
+02Hurry up and defeat [{2Cao Cao}]!
+------------------------------------------------
+[0033]
+33Withdraw from [{2Cao Cao}], [{4Chibi}]!
+------------------------------------------------
+FILE9[0037]
+******************************
+[0000]
+The enemy is panicking! Which one, pursue [{2Cao Cao}]!
+------------------------------------------------
+[0001]
+Don't let [{2Cao Cao}] come near you!
+------------------------------------------------
+[0002]
+Messenger from [{1Zhou Yu}]! They say they will launch an
+all-out attack on [{2Cao Caojun}]!
+------------------------------------------------
+[0003]
+Way to go! "You're too old for dates!" Come on, let's go on
+a rampage!
+------------------------------------------------
+[0004]
+[{1yellow cover}], your plan has worked! Well done for your
+dangerous role!
+------------------------------------------------
+[0005]
+messenger! 
+------------------------------------------------
+[0006]
+[{2Cao Cao}], I jumped into the predicament myself. I'm
+going to finish him now!
+------------------------------------------------
+[0007]
+Finally cornered [{2Cao Cao}]! It's the final touch, let's
+flash it!
+------------------------------------------------
+[0008]
+Victory is near in this battle! Go forward!
+------------------------------------------------
+[0009]
+[{1Zhou Yu}], we have the upper hand! I never thought I
+could fight against such a large army!
+------------------------------------------------
+[0010]
+It would have been dangerous if the southeast wind hadn't
+blown. [{1Zhuge Liang}]...may become a threat to Wu
+------------------------------------------------
+[0011]
+A group of fools lured by the bait [{2Cao Mengde}]? let's
+bury
+------------------------------------------------
+[0012]
+Kuh, [{2Cao Cao}]! "Using yourself as a decoy..."
+------------------------------------------------
+[0013]
+There's nothing wrong with a trap like this! Compared to the
+adversity that Sun Wu went through!
+------------------------------------------------
+[0014]
+The tide of battle has been decided, but I will not let you
+defeat the lord. [{2Cao Zixiao}], use this body as a shield
+to protect me!
+------------------------------------------------
+[0015]
+You did a great job, didn't you? Thanks, this place is a
+mess
+------------------------------------------------
+[0016]
+Sun Wu's momentum cannot be underestimated... Sir, please be
+safe...!
+------------------------------------------------
+[0017]
+So the momentum is too different... I'm sorry sir, this is
+the end of buying time!
+------------------------------------------------
+[0018]
+I promised [{2Dianwei}] that I died. [{2Cao Cao}] will
+protect you no matter what!
+------------------------------------------------
+[0019]
+I owe the thoughts of the three generations of the Sun
+family! I won't lose to you!
+------------------------------------------------
+[0020]
+T-strength... Dear [{2Cao Cao}], run away...
+------------------------------------------------
+[0021]
+I never thought I would be cornered like this. You
+underestimated [{1sun yi}]'s ability...
+------------------------------------------------
+[0022]
+You try to force both the general and the people to obey
+you. But my lord is different
+------------------------------------------------
+[0023]
+Listen to the general's opinion and move forward together.
+That is the power of my lord, Sun Wu!
+------------------------------------------------
+[0024]
+I see... it's incompatible with my supremacy. It looks like
+I have no choice but to cut it off!
+------------------------------------------------
+[0025]
+Kuh, withdraw temporarily. I asked for the rest
+------------------------------------------------
+[0026]
+messenger! 
+------------------------------------------------
+[0027]
+messenger! I am asking for urgent help!
+------------------------------------------------
+[0028]
+Are you sneaking away! "Wait!"
+------------------------------------------------
+[0029]
+Get out of here! I'm only aiming for [{2Cao Cao}]'s neck!
+------------------------------------------------
+[0030]
+Were you there, [{2Cao Cao}]! Ignorance!
+------------------------------------------------
+[0031]
+messenger! 
+------------------------------------------------
+[0032]
+I'm sorry too! I lost sight of the enemy commander-in-chief!
+------------------------------------------------
+[0033]
+messenger! 
+------------------------------------------------
+[0034]
+To lose while chasing so far...
+------------------------------------------------
+[0035]
+[{2mend}], are you okay!
+------------------------------------------------
+[0036]
+Kuh... Calm down! We still have a chance!
+------------------------------------------------

@@ -1,0 +1,381 @@
+FILE5[0002]
+******************************
+[0000]
+Defeat [{2%s}]
+------------------------------------------------
+[0001]
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0074]
+******************************
+[0000]
+00Defeat [{2Sima Yi}]!
+------------------------------------------------
+[0001]
+23[{1%s}], in danger of being defeated!
+------------------------------------------------
+[0002]
+23[{1%s}], rout!
+------------------------------------------------
+[0003]
+23[{1Shu Army}], demoralization!
+------------------------------------------------
+[0004]
+23[{1%s}], in danger of being defeated!
+------------------------------------------------
+[0005]
+23[{1%s}], rout!
+------------------------------------------------
+[0006]
+23[{1Shu Army}], demoralization!
+------------------------------------------------
+[0007]
+23[{2Wei Jun}]Ambush, appear!
+------------------------------------------------
+[0008]
+00Destroy [{2Wei Jun}] on the front line and secure the path of [{1Shu Army}]!
+------------------------------------------------
+[0009]
+11[{2Sima Shi}], temporarily withdraw!
+------------------------------------------------
+[0010]
+11[{2Sima Zhao}], temporarily withdraw!
+------------------------------------------------
+[0011]
+00[{5tiger tank}], ready!
+------------------------------------------------
+[0012]
+00[{5tiger tank}], start moving!
+------------------------------------------------
+[0013]
+11Defeat all [{2Wei Jun}] fire arrow units!
+------------------------------------------------
+[0014]
+11[{1Shu Army}], raise morale!
+------------------------------------------------
+[0015]
+23[{1Zhuge Liang}], struggling!
+------------------------------------------------
+[0016]
+23[{1Zhuge Liang}], in danger of being defeated!
+------------------------------------------------
+[0017]
+33[{1Zhuge Liang}], defeated for rout!
+------------------------------------------------
+[0018]
+00Siege [{4Wei Jun's main formation}] from three sides!
+------------------------------------------------
+[0019]
+00[{1%s}], advance from the west!
+------------------------------------------------
+[0020]
+00[{1%s}], advance from the east!
+------------------------------------------------
+[0021]
+23By [{2Sima Yi}]'s plan, [{2Deng Ai}] go into hiding!
+------------------------------------------------
+[0022]
+23[{2Deng Ai}]'s commando force appears!
+------------------------------------------------
+[0023]
+23[{2Wei Jun}] reinforcements led by [{2Bell will}] have arrived!
+------------------------------------------------
+[0024]
+23Help us urgently!
+------------------------------------------------
+[0025]
+23Hurry up and go to the rescue!
+------------------------------------------------
+[0026]
+23Ambusher [{2%s}], appear!
+------------------------------------------------
+[0027]
+00[{4Beidongguan Office}], open the gates!
+------------------------------------------------
+[0028]
+23[{4Beidongguan Office}], completely blocked by [{2Sima Shi}]!
+------------------------------------------------
+[0029]
+00[{4Dongzhai}] All gates open!
+------------------------------------------------
+[0030]
+00[{4Dongzhai}] All gates closed!
+------------------------------------------------
+[0031]
+00[{4Wei Jun's main formation}] All gates open!
+------------------------------------------------
+[0032]
+00[{4Wei Jun's main formation}] All gates closed!
+------------------------------------------------
+[0033]
+23[{2%s}], begin marching towards [{1Zhuge Liang}]!
+------------------------------------------------
+[0034]
+00Set up in [{1Zhuge Liang}], [{4Bingku}]!
+------------------------------------------------
+[0035]
+00[{1%s}], [{2Sima Yi}] stop the advance!
+------------------------------------------------
+[0036]
+00Defeat [{2Sima Zhao}] and help [{1%s}] advance!
+------------------------------------------------
+[0037]
+00Defeat [{2Sima Shi}] and rescue [{1%s}]!
+------------------------------------------------
+[0038]
+23[{2Wei Jun}]Ambush, appear!
+------------------------------------------------
+[0039]
+11[{1%s}], resume marching!
+------------------------------------------------
+[0040]
+23[{1%s}], upset!
+------------------------------------------------
+[0041]
+23[{2Wei Jun}]Fire Archers Appear!
+------------------------------------------------
+[0042]
+23The [{1Shu Army}] in the center struggled with fire arrow attacks!
+------------------------------------------------
+[0043]
+11[{1Shu Army}] in the center, resume marching!
+------------------------------------------------
+[0044]
+23[{1Shu Army}] in the center, annihilated!
+------------------------------------------------
+[0045]
+33[{4Wei Jun's main formation}] Siege failed!
+------------------------------------------------
+[0046]
+00Defeat [{2Wei Jun}] and secure the deployment position for [{5tiger tank}]!
+------------------------------------------------
+[0047]
+23[{2Wei Jun}]Watch out for weapon attacks!
+------------------------------------------------
+[0048]
+23[{2%s}], appear!
+------------------------------------------------
+[0049]
+00Get into the [{5tiger tank}] and wipe out the [{2Wei Jun}] in the middle!
+------------------------------------------------
+[0050]
+00Destroy [{2Wei Jun}] in the center!
+------------------------------------------------
+[0051]
+11Deployed to the west of [{1%s}], [{4Wei Jun's main formation}]!
+------------------------------------------------
+[0052]
+11Deployed to the east of [{1%s}], [{4Wei Jun's main formation}]!
+------------------------------------------------
+[0053]
+11Set up in front of the central [{1Shu Army}], [{4Wei Jun's main formation}]!
+------------------------------------------------
+[0054]
+00The door seems to be completely closed!
+------------------------------------------------
+[0055]
+00It looks like there are explosives buried nearby!
+------------------------------------------------
+[0056]
+00Advance with caution!
+------------------------------------------------
+[0057]
+00Defeat [{2Xiahou Ba}] and secure the [{4Wei Jun's main formation}] front!
+------------------------------------------------
+[0058]
+23[{1%s}] rescue failed!
+------------------------------------------------
+[0059]
+00Release [{4beidongzhai}]!
+------------------------------------------------
+[0060]
+00Rescue [{1%s}]!
+------------------------------------------------
+[0061]
+00Suspicious movement in [{2Wei Jun}] in the northwest!
+------------------------------------------------
+[0062]
+00From [{4Shu army main formation}], reinforcements begin marching!
+------------------------------------------------
+[0063]
+00Support [{1%s}]'s [{4Wei Jun's main formation}] march to the west!
+------------------------------------------------
+[0064]
+00Support [{1%s}]'s [{4Wei Jun's main formation}] march to the east!
+------------------------------------------------
+[0065]
+41[{4Wei Jun's main formation}] Siege, success!
+------------------------------------------------
+[0066]
+11Central [{2Wei Jun}] cannon, stop!
+------------------------------------------------
+[0067]
+11[{1Shu Army}], occupy the center of the battlefield!
+------------------------------------------------
+[0068]
+23[{2Wei Jun}], start marching!
+------------------------------------------------
+[0069]
+00Deploy in [{1Shu army main formation}], [{4Bingku}]!
+------------------------------------------------
+[0070]
+23[{2Deng Ai}], begin marching towards [{1Shu army main formation}]!
+------------------------------------------------
+[0071]
+23[{1Shu army main formation}], struggling!
+------------------------------------------------
+[0072]
+23[{1Shu army main formation}], in danger of falling!
+------------------------------------------------
+[0073]
+33[{1Shu army main formation}], defeated!
+------------------------------------------------
+FILE9[0042]
+******************************
+[0000]
+[{2Sima Yi}] started to move. I will break through the
+center while supporting my comrades!
+------------------------------------------------
+[0001]
+...that's the right decision. [{1Jiang Wei}], can I leave
+the rest to you?
+------------------------------------------------
+[0002]
+Commander, leave everything to me! I will definitely make
+the world of Jin come true!
+------------------------------------------------
+[0003]
+[{1Liu Bei}]……Jin no Se, aiming for Shita……. I... battle...!
+------------------------------------------------
+[0004]
+Enemy...strong... I...retire...!
+------------------------------------------------
+[0005]
+[{1Wei Yan}] is pressed. go to the rescue now
+------------------------------------------------
+[0006]
+I……negative digits……. [{1Jiang Wei}]……Niseta……
+------------------------------------------------
+[0007]
+[{1Wei Yan}] is defeated...? You can't avoid the upset of
+your allies...
+------------------------------------------------
+[0008]
+[{1Zhuge Liang}] always begging you is uncool! Let's build
+the world of Jin!
+------------------------------------------------
+[0009]
+It's a little tight... I can't do it alone
+------------------------------------------------
+[0010]
+[{1Ma Dai}] seems to be in a difficult situation. let's go
+to the rescue
+------------------------------------------------
+[0011]
+Hmmm... I've come this far... [{1Jiang Wei}], Jin no Se,
+please.
+------------------------------------------------
+[0012]
+It seems that [{1Ma Dai}]-dono's unit has been destroyed...
+The morale of the soldiers will also drop.
+------------------------------------------------
+[0013]
+Dear [{1Jiang Wei}]! Fire arrows from the enemy camp!
+------------------------------------------------
+[0014]
+These fire arrows, if attacked blindly, the damage will
+spread. [{1Yue Ying}], now is the time to use the Tiger
+Tank!
+------------------------------------------------
+[0015]
+got it. 
+------------------------------------------------
+[0016]
+You're not the commander. Does he really think he can beat
+us?
+------------------------------------------------
+[0017]
+Even if you beat me, the crowd won't change. Your defeat is
+destiny...
+------------------------------------------------
+[0018]
+You are trying too hard. Thanks to that, even I had to
+leave...
+------------------------------------------------
+[0019]
+Ah, troublesome……. It's a guy who can't see a mass of
+tenacity...
+------------------------------------------------
+[0020]
+Enemy eliminated! [{1Yue Ying}], now is the time! "Tiger
+tank!"
+------------------------------------------------
+[0021]
+Start marching! Smash [{2Wei Jun}]!
+------------------------------------------------
+[0022]
+All [{2Sima Yi}]'s schemes have been defeated! All forces,
+launch an all-out attack against [{4Enemy}]!
+------------------------------------------------
+[0023]
+[{1Zhuge Liang}] looks like a disciple... You are not my
+enemy, go away!
+------------------------------------------------
+[0024]
+You will be the greatest enemy in the future. Finish here!
+------------------------------------------------
+[0025]
+Gofu……. I will return the debt I borrowed earlier...
+------------------------------------------------
+[0026]
+He's a hot guy. But hey, I don't hate it!
+------------------------------------------------
+[0027]
+Forget it, [{2Sima Yi}]! The world wants the world of Jin!
+------------------------------------------------
+[0028]
+In the world of Jin? ...You idiot! Who wants a world where
+stupidity prevails!
+------------------------------------------------
+[0029]
+messenger! 
+------------------------------------------------
+[0030]
+messenger! I am asking for urgent help!
+------------------------------------------------
+[0031]
+Allied commander-in-chief, defeated! Our army is defeated...
+------------------------------------------------
+[0032]
+Hieeee!
+------------------------------------------------
+[0033]
+I'm just doing what I've been given!
+------------------------------------------------
+[0034]
+report! 
+------------------------------------------------
+[0035]
+Dear [{1Jiang Wei}], enemy soldiers have appeared around
+[{4Honjin}]! At this rate, [{4Honjin}] is in danger!
+------------------------------------------------
+[0036]
+messenger! 
+------------------------------------------------
+[0037]
+We must stop the enemy's momentum. Then there is just the
+right thing
+------------------------------------------------
+[0038]
+Report, there are explosives on the march! I can't proceed
+with this!
+------------------------------------------------
+[0039]
+Wow! help……
+------------------------------------------------
+[0040]
+messenger! 
+------------------------------------------------
+[0041]
+messenger! I am asking for urgent help!
+------------------------------------------------

@@ -1,0 +1,319 @@
+FILE5[0002]
+******************************
+[0000]
+of [{1%s}]
+Reaching [{5Escape location}]
+------------------------------------------------
+[0001]
+Rout of [{1%s}]
+------------------------------------------------
+FILE7[0060]
+******************************
+[0000]
+00[{1Shu Army}] in the north, start retreating!
+------------------------------------------------
+[0001]
+02Use [{5%s}] to destroy the [{2Wu army}] pursuit unit!
+------------------------------------------------
+[0002]
+00[{1Shu Army}] First group, start retreat!
+------------------------------------------------
+[0003]
+00[{1Lightning Copper}], withdraw!
+------------------------------------------------
+[0004]
+00[{1Zhang Yi}], withdraw!
+------------------------------------------------
+[0005]
+31[{1Shu Army}] The first wave, annihilated!
+------------------------------------------------
+[0006]
+00[{1Shu Army}] The first group has retreated!
+------------------------------------------------
+[0007]
+00[{1Shu Army}] 2nd group, start retreating!
+------------------------------------------------
+[0008]
+00[{1Liu Ning}], withdraw!
+------------------------------------------------
+[0009]
+00[{1Chen style}], withdraw!
+------------------------------------------------
+[0010]
+31[{1Shu Army}] 2nd group, annihilated!
+------------------------------------------------
+[0011]
+00[{1Shu Army}] 2nd Batch Evacuated!
+------------------------------------------------
+[0012]
+00[{1Shu Army}] 3rd group, start retreating!
+------------------------------------------------
+[0013]
+23[{2Wu army}] Stone-throwing troops appear!
+------------------------------------------------
+[0014]
+00[{1Zhang Bao}], withdraw!
+------------------------------------------------
+[0015]
+00[{1Guan Xing}], withdraw!
+------------------------------------------------
+[0016]
+00[{1Shamoko}], withdraw!
+------------------------------------------------
+[0017]
+31[{1Shu Army}] 3rd group, annihilated!
+------------------------------------------------
+[0018]
+00[{1Shu Army}] 3rd Batch Evacuated!
+------------------------------------------------
+[0019]
+31The [{1Shu Army}] of the north, annihilated!
+------------------------------------------------
+[0020]
+11The [{1Shu Army}] in the north has been evacuated!
+------------------------------------------------
+[0021]
+00Request for help from [{1Shu Army}] in the west!
+------------------------------------------------
+[0022]
+00[{1Shu Army}] in the west, start retreating!
+------------------------------------------------
+[0023]
+02Assist [{1%s}], [{1class}], and [{1Feng Xi}] in their retreat!
+------------------------------------------------
+[0024]
+00[{1%s}], withdraw!
+------------------------------------------------
+[0025]
+00[{1class}], withdraw!
+------------------------------------------------
+[0026]
+00[{1Feng Xi}], withdraw!
+------------------------------------------------
+[0027]
+31The [{1Shu Army}] in the west, annihilated!
+------------------------------------------------
+[0028]
+11The [{1Shu Army}] in the west has been evacuated!
+------------------------------------------------
+[0029]
+23[{2Lu Xun}] generates a fire attack!
+------------------------------------------------
+[0030]
+23[{2Wu army}] Reinforcements are here!
+------------------------------------------------
+[0031]
+11[{1Shu Army}] New weapons have arrived!
+------------------------------------------------
+[0032]
+11[{2Ling Tong}], disturbed by the appearance of the Tiger Tank!
+------------------------------------------------
+[0033]
+11[{2Lu Xun}], disturbed by the arrival of the Tiger Tank!
+------------------------------------------------
+[0034]
+11[{2Ding Feng}], disturbed by the appearance of the Tiger Tank!
+------------------------------------------------
+[0035]
+00[{1%s}], rescue!
+------------------------------------------------
+[0036]
+02Ride the tiger tank and assault the [{2Wu army}] headquarters!
+------------------------------------------------
+[0037]
+31Tiger tank, destroyed!
+------------------------------------------------
+[0038]
+02Crossbow, restore!
+------------------------------------------------
+[0039]
+11[{1%s}], withdraw!
+------------------------------------------------
+[0040]
+11[{4Yiling}]Northern shore fire alarm extinguished!
+------------------------------------------------
+[0041]
+23[{2Wu army}] Reinforcements approaching!
+------------------------------------------------
+[0042]
+00[{4Dongzhai}] Close the north gate!
+------------------------------------------------
+[0043]
+00Defend [{1Ma Liang}], [{4Dongzhai}]!
+------------------------------------------------
+[0044]
+00It seems that you can now cross the south side of the river!
+------------------------------------------------
+[0045]
+00[{1%s}], begin assault on [{4Wu army headquarters}]!
+------------------------------------------------
+[0046]
+23[{1%s}], isolated!
+------------------------------------------------
+[0047]
+00Rescue [{1%s}]!
+------------------------------------------------
+[0048]
+23[{2%s}], appear!
+------------------------------------------------
+[0049]
+31[{1%s}], defeated for rout!
+------------------------------------------------
+[0050]
+23[{1%s}], struggling! "Hurry and help!"
+------------------------------------------------
+[0051]
+23[{1%s}], in danger of being defeated! "Promptly help!"
+------------------------------------------------
+[0052]
+02Cover the retreat of the [{1Shu Army}] and force the [{1%s}] to retreat safely!
+------------------------------------------------
+[0053]
+00[{1%s}], march to rescue [{1%s}]!
+------------------------------------------------
+[0054]
+00[{1%s}], start retreating!
+------------------------------------------------
+[0055]
+02Defeat [{2Lu Xun}]!
+------------------------------------------------
+[0056]
+02Support [{1%s}]'s retreat!
+------------------------------------------------
+[0057]
+00[{1Wang Ping}] seems to be holding back the [{2Wu army}] in the south!
+------------------------------------------------
+[0058]
+00[{1Ma Di}], rescue!
+------------------------------------------------
+[0059]
+00It looks like it will take some time for the new weapons to arrive!
+------------------------------------------------
+FILE9[0035]
+******************************
+[0000]
+The fire was finally extinguished.... [{1Liu Bei}] also
+entered [{4Baidi City}] safely.
+------------------------------------------------
+[0001]
+[{1Zhao Yun}] is holding back the enemy to the south. In the
+meantime, let's withdraw his entire army.
+------------------------------------------------
+[0002]
+We are currently preparing new weapons. It seems that it
+will take some time to arrive ... ...
+------------------------------------------------
+[0003]
+got it. Use [{5Ballista}] to suppress enemy pursuit
+------------------------------------------------
+[0004]
+Dear [{1Kong Ming}], allied troops in front are retreating!
+------------------------------------------------
+[0005]
+Dear [{1Kong Ming}], this time from the left!
+------------------------------------------------
+[0006]
+Dear [{1Kong Ming}], coming from the right!
+------------------------------------------------
+[0007]
+……[{2Slinger}], put it on……
+------------------------------------------------
+[0008]
+[{2Wu army}] has signs of further reinforcements. please
+note
+------------------------------------------------
+[0009]
+[{1Liu Bei}] was forced to fight out of deep grief. Of
+course, I can't say that it was the right decision...
+------------------------------------------------
+[0010]
+However, this is Jin's battle because of his love... [{1Liu
+Bei}] who knows love will lead the world to happiness.
+------------------------------------------------
+[0011]
+Dear [{1Kong Ming}], this is a request for help from [{1Guan
+Suo}]. Let's hurry up!
+------------------------------------------------
+[0012]
+[{2Gan Ning}]'s funeral. I'll have you face me
+------------------------------------------------
+[0013]
+[{1Guan Suo}], how are you? We'll support you, so withdraw!
+------------------------------------------------
+[0014]
+I'm sorry too!
+------------------------------------------------
+[0015]
+Are you, by any chance, teacher [{1Zhuge Liang}]? To meet
+you in a place like this...
+------------------------------------------------
+[0016]
+How do you overcome this predicament? let me learn
+------------------------------------------------
+[0017]
+Dear [{1Kong Ming}], we have received word that Wu
+reinforcements have arrived. It appears that [{2Ding Feng}]
+is leading
+------------------------------------------------
+[0018]
+[{2Lu Xun}], sorry to keep you waiting. Leave the finishing
+to someone else
+------------------------------------------------
+[0019]
+While the enemy's morale rises with reinforcements... [{1Yue
+Ying}], hurry to prepare that weapon.
+------------------------------------------------
+[0020]
+Dear [{1Kong Ming}], the weapons are ready. It's still in
+the prototype stage, but I wonder if the enemy's morale will
+be crushed
+------------------------------------------------
+[0021]
+Please try it yourself to see how powerful it is. Here's the
+new weapon... the [{5tiger tank}]!
+------------------------------------------------
+[0022]
+……What is that? Something really disturbing is coming out
+------------------------------------------------
+[0023]
+I thought I was preparing something like this... The power
+is unknown, you can't let your guard down
+------------------------------------------------
+[0024]
+It's a majestic wind. Like a raging dragon
+------------------------------------------------
+[0025]
+It looks like a tiger!
+------------------------------------------------
+[0026]
+The battle results are enough, let's retreat here. [{1Zhuge
+Liang}] Sensei, we'll have another rematch...
+------------------------------------------------
+[0027]
+Have you taken a good look at when to leave? [{2Zhou Yu}],
+[{2Lu Meng}] got a good successor
+------------------------------------------------
+[0028]
+I would like to get one too. A talented young man who can be
+entrusted with the future...
+------------------------------------------------
+[0029]
+The fire was finally extinguished...
+------------------------------------------------
+[0030]
+[{1Liu Bei}] also entered [{4Baidi City}] safely.
+------------------------------------------------
+[0031]
+Let's go. Our road still continues
+------------------------------------------------
+[0032]
+My father's enemy... Now is the time to defeat him with my
+own hands!
+------------------------------------------------
+[0033]
+Yes, Dear [{1Kong Ming}]
+------------------------------------------------
+[0034]
+Attacking with brute force is not the only way to fight. You
+will learn the wisdom to overcome martial arts by my side.
+------------------------------------------------
